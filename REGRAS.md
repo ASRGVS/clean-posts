@@ -12,3 +12,6 @@
 - WhatsApp: pessoa física → (33) 98761-0434. Empresas, Airbnb, restaurantes, salões e uniformes → (33) 98749-0985.
 - Stories: metade com preço (dias alternados), sempre de um serviço diferente do post do feed do mesmo dia.
 - Horário: segunda a sexta 7h às 17h (sem parada), sábado 7h às 11h, domingo fechado. Feriados de seg a sáb: horário normal do dia.
+- Prazo médio de entrega: 2 a 3 dias (peças especiais podem variar).
+- Pagamento: Pix, dinheiro e todos os cartões. Serviços acima de R$ 100: até 3x no cartão (confirmar com o dono antes de divulgar parcelamento para planos mensais).
+- Como funciona o plano mensal: coleta semanal em dia e horário fixos (ex.: segunda 8h); na semana seguinte, no mesmo horário, devolve a roupa limpa e coleta a nova. Ciclo contínuo.
