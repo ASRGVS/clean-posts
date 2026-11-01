@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Qual plano é o seu? · Lavanderia Clean</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--azul:#0f62ac;--ciano:#00afef;--laranja:#f58634;--tinta:#0a2f57;--cinza:#4a6078;--fundo:#f3f9fd}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Poppins,system-ui,sans-serif;background:var(--fundo);color:var(--tinta);min-height:100vh;display:flex;justify-content:center;padding:24px 14px 48px}
+.card{background:#fff;width:100%;max-width:560px;border-radius:24px;box-shadow:0 6px 30px rgba(10,47,87,.10);overflow:hidden}
+.top{background:var(--azul);color:#fff;padding:26px 26px 22px;position:relative;overflow:hidden}
+.top::after{content:"";position:absolute;right:-60px;top:-60px;width:180px;height:180px;border-radius:50%;border:3px solid rgba(255,255,255,.2);background:rgba(255,255,255,.08)}
+.tag{display:inline-block;background:var(--laranja);font-size:12px;font-weight:700;letter-spacing:.06em;padding:5px 12px;border-radius:20px}
+.top h1{font-size:26px;line-height:1.15;margin-top:12px}
+.top h1 span{color:var(--ciano)}
+.top p{font-size:14px;opacity:.9;margin-top:6px}
+.bar{height:6px;background:rgba(255,255,255,.25);border-radius:4px;margin-top:18px}
+.bar i{display:block;height:100%;width:0;background:var(--ciano);border-radius:4px;transition:width .3s}
+.body{padding:24px 26px 28px}
+.q{display:none}.q.on{display:block;animation:in .25s ease}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.q h2{font-size:20px;line-height:1.25}
+.q .hint{font-size:13px;color:var(--cinza);margin-top:4px}
+.opts{display:grid;gap:10px;margin-top:18px}
+.opt{border:2px solid #dbe8f2;border-radius:16px;padding:14px 16px;text-align:left;background:#fff;font:inherit;color:inherit;cursor:pointer;display:flex;gap:12px;align-items:center;transition:.15s}
+.opt:hover{border-color:var(--ciano)}
+.opt.sel{border-color:var(--azul);background:#eef6fd}
+.opt b{display:block;font-size:15px}.opt small{display:block;font-size:12.5px;color:var(--cinza);margin-top:2px}
+.ico{flex:none;width:40px;height:40px;border-radius:50%;background:#e3f4fd;display:flex;align-items:center;justify-content:center;font-size:20px}
+.count{display:flex;align-items:center;justify-content:space-between;border:2px solid #dbe8f2;border-radius:16px;padding:12px 16px;margin-top:10px}
+.count b{font-size:15px}.count small{display:block;font-size:12.5px;color:var(--cinza)}
+.stp{display:flex;align-items:center;gap:12px}
+.stp button{width:38px;height:38px;border-radius:50%;border:none;background:var(--ciano);color:#fff;font-size:22px;font-weight:700;cursor:pointer;line-height:1}
+.stp button:disabled{background:#c9dbe8;cursor:default}
+.stp output{font-size:20px;font-weight:700;min-width:22px;text-align:center}
+.nav{display:flex;justify-content:space-between;align-items:center;margin-top:22px}
+.back{background:none;border:none;color:var(--cinza);font:inherit;font-size:14px;cursor:pointer}
+.go{background:var(--azul);color:#fff;border:none;border-radius:30px;padding:12px 26px;font:inherit;font-weight:600;cursor:pointer}
+.go:disabled{background:#c9dbe8;cursor:default}
+.res .plan{background:linear-gradient(160deg,var(--azul),#0b4f8c);color:#fff;border-radius:20px;padding:22px;margin-top:16px}
+.res .plan small{opacity:.85;font-size:13px}
+.res .plan h3{font-size:22px;margin-top:4px}
+.res .price{font-size:34px;font-weight:700;margin-top:10px}.res .price span{font-size:15px;font-weight:500;opacity:.85}
+.res .sub{font-size:13.5px;opacity:.9;margin-top:4px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.chip{background:rgba(255,255,255,.16);border-radius:20px;padding:5px 12px;font-size:12.5px}
+.why{font-size:14px;color:var(--cinza);margin-top:16px;line-height:1.5}
+.why b{color:var(--tinta)}
+.wa{display:flex;align-items:center;justify-content:center;gap:8px;background:#25a35a;color:#fff;text-decoration:none;font-weight:600;border-radius:30px;padding:15px;margin-top:18px;font-size:16px}
+.bonus{background:#fff4ec;border:1px solid #fbd6bb;color:#8a4210;border-radius:14px;padding:12px 14px;font-size:13.5px;margin-top:14px}
+.fine{font-size:11.5px;color:var(--cinza);margin-top:14px;line-height:1.45}
+.redo{display:block;margin:14px auto 0;background:none;border:none;color:var(--azul);font:inherit;font-size:14px;cursor:pointer;text-decoration:underline}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top">
+    <span class="tag">LAVANDERIA CLEAN · GV</span>
+    <h1>Qual plano é <span>o seu?</span></h1>
+    <p>Responda 4 perguntas rápidas e veja o plano ideal para a sua casa.</p>
+    <div class="bar"><i id="bar"></i></div>
+  </div>
+  <div class="body">
+
+    <section class="q on" data-step="1">
+      <h2>Quem mora na casa?</h2>
+      <p class="hint">Conte só quem vai mandar roupa para a Clean.</p>
+      <div class="count"><div><b>Adultos</b><small>a partir de 12 anos</small></div>
+        <div class="stp"><button type="button" data-k="ad" data-d="-1">−</button><output id="ad">1</output><button type="button" data-k="ad" data-d="1">+</button></div></div>
+      <div class="count"><div><b>Crianças</b><small>até 11 anos</small></div>
+        <div class="stp"><button type="button" data-k="cr" data-d="-1">−</button><output id="cr">0</output><button type="button" data-k="cr" data-d="1">+</button></div></div>
+    </section>
+
+    <section class="q" data-step="2">
+      <h2>O que você vai mandar para a gente?</h2>
+      <p class="hint">Muita gente manda só a roupa de sair e deixa o resto em casa.</p>
+      <div class="opts" data-name="tipo">
+        <button type="button" class="opt" data-v="tudo"><span class="ico">🧺</span><span><b>Toda a roupa da casa</b><small>Dia a dia, trabalho, pijamas, roupa íntima, meias e toalhas</small></span></button>
+        <button type="button" class="opt" data-v="sair"><span class="ico">👔</span><span><b>Só roupa de sair e de trabalho</b><small>O resto fica em casa</small></span></button>
+      </div>
+    </section>
+
+    <section class="q" data-step="3">
+      <h2>Alguém faz academia ou esporte?</h2>
+      <p class="hint">Roupa de treino aumenta bastante a quantidade de peças.</p>
+      <div class="opts" data-name="treino">
+        <button type="button" class="opt" data-v="sim"><span class="ico">🏃</span><span><b>Sim, 3 vezes ou mais por semana</b></span></button>
+        <button type="button" class="opt" data-v="nao"><span class="ico">🛋️</span><span><b>Não, ou muito pouco</b></span></button>
+      </div>
+    </section>
+
+    <section class="q" data-step="4">
+      <h2>Como você quer receber?</h2>
+      <div class="opts" data-name="modo">
+        <button type="button" class="opt" data-v="dobrado"><span class="ico">👕</span><span><b>Limpa e dobrada</b><small>Pronta para guardar na gaveta</small></span></button>
+        <button type="button" class="opt" data-v="passado"><span class="ico">👗</span><span><b>Limpa e passada</b><small>Pronta para vestir</small></span></button>
+        <button type="button" class="opt" data-v="passadoria"><span class="ico">♨️</span><span><b>Já lavo em casa, quero só passar</b><small>Você lava e seca, a Clean passa</small></span></button>
+      </div>
+    </section>
+
+    <section class="q res" data-step="5" id="res"></section>
+
+    <div class="nav" id="nav">
+      <button type="button" class="back" id="back" style="visibility:hidden">← Voltar</button>
+      <button type="button" class="go" id="go">Continuar</button>
+    </div>
+  </div>
+</div>
+
+<script>
+var WHATS = "5533987610434";
+// Peças por semana por pessoa (todas as peças contam; 1 par de meias = 1 peça)
+var BASE = {
+  adulto: { tudo: 30, sair: 14 },   // tudo: blusa+calça (14) + íntimas (7) + meias (5) + pijamas (2-3) + toalhas (1-2)
+  crianca:{ tudo: 25, sair: 10 }
+};
+var TREINO = 7;          // por adulto que treina (só quando manda toda a roupa)
+var PASSAR = { adulto: 14, crianca: 8 }; // peças que vão para o ferro por semana
+var PLANOS = {
+  dobrado:   { nome: "Mensal Limpo + Dobrado", tiers: [[80,219.90],[100,249.90],[120,289.90]] },
+  passado:   { nome: "Mensal Limpo + Passado", tiers: [[80,319.90],[100,379.90],[120,439.90]] },
+  passadoria:{ nome: "Plano Mensal de Passadoria", tiers: [[60,199.90],[70,219.90],[80,239.90]] }
+};
+var st = { ad: 1, cr: 0, tipo: null, treino: null, modo: null }, step = 1;
+
+function brl(v){ return "R$ " + v.toFixed(2).replace(".", ","); }
+function $(s){ return document.querySelector(s); }
+
+document.querySelectorAll(".stp button").forEach(function(b){
+  b.onclick = function(){
+    var k = b.dataset.k, v = st[k] + (+b.dataset.d);
+    var min = k === "ad" ? 1 : 0, max = k === "ad" ? 6 : 5;
+    st[k] = Math.max(min, Math.min(max, v));
+    $("#" + k).textContent = st[k];
+    refresh();
+  };
+});
+document.querySelectorAll(".opts").forEach(function(g){
+  g.querySelectorAll(".opt").forEach(function(o){
+    o.onclick = function(){
+      g.querySelectorAll(".opt").forEach(function(x){ x.classList.remove("sel"); });
+      o.classList.add("sel"); st[g.dataset.name] = o.dataset.v; refresh();
+      setTimeout(next, 220);
+    };
+  });
+});
+
+function needed(){
+  if (st.modo === "passadoria") return st.ad * PASSAR.adulto + st.cr * PASSAR.crianca;
+  var t = st.tipo || "tudo";
+  var n = st.ad * BASE.adulto[t] + st.cr * BASE.crianca[t];
+  if (t === "tudo" && st.treino === "sim") n += st.ad * TREINO;
+  return n;
+}
+function skipTreino(){ return st.tipo === "sair"; }
+function order(){ return skipTreino() ? [1,2,4,5] : [1,2,3,4,5]; }
+function canGo(){
+  if (step === 1) return true;
+  if (step === 2) return !!st.tipo;
+  if (step === 3) return !!st.treino;
+  if (step === 4) return !!st.modo;
+  return false;
+}
+function refresh(){
+  $("#go").disabled = !canGo();
+  document.querySelectorAll('[data-k="ad"][data-d="-1"]')[0].disabled = st.ad <= 1;
+  document.querySelectorAll('[data-k="cr"][data-d="-1"]')[0].disabled = st.cr <= 0;
+}
+function show(n){
+  step = n;
+  document.querySelectorAll(".q").forEach(function(q){ q.classList.toggle("on", +q.dataset.step === n); });
+  var o = order(), i = o.indexOf(n);
+  $("#bar").style.width = Math.round(i / (o.length - 1) * 100) + "%";
+  $("#back").style.visibility = i > 0 ? "visible" : "hidden";
+  $("#nav").style.display = n === 5 ? "none" : "flex";
+  if (n === 5) result();
+  refresh();
+}
+function next(){ if (!canGo()) return; var o = order(); show(o[o.indexOf(step) + 1]); }
+$("#go").onclick = next;
+$("#back").onclick = function(){ var o = order(); show(o[Math.max(0, o.indexOf(step) - 1)]); };
+
+function result(){
+  var p = PLANOS[st.modo], semana = needed(), mes = semana * 4;
+  var tier = null, extra = 0, personal = false;
+  for (var i = 0; i < p.tiers.length; i++){ if (p.tiers[i][0] >= mes){ tier = p.tiers[i]; break; } }
+  if (!tier){
+    tier = p.tiers[p.tiers.length - 1];
+    extra = mes - tier[0];
+    if (extra > tier[0] * 0.25) personal = true;
+  }
+  var porSemana = (tier[0] / 4).toString().replace(".", ",");
+  var porPeca = tier[1] / tier[0];
+  var pessoas = st.ad + " adulto" + (st.ad > 1 ? "s" : "") + (st.cr ? " e " + st.cr + " criança" + (st.cr > 1 ? "s" : "") : "");
+  var oque = st.modo === "passadoria" ? "só passar" : (st.tipo === "sair" ? "só roupa de sair e de trabalho" : "toda a roupa da casa" + (st.treino === "sim" ? ", com roupa de academia" : ""));
+  var html;
+  if (personal){
+    html = '<h2>Sua casa pede um plano sob medida</h2>' +
+      '<div class="plan"><small>Estimativa para ' + pessoas + '</small><h3>Plano personalizado</h3>' +
+      '<div class="price">~' + mes + ' <span>peças por mês</span></div>' +
+      '<div class="sub">cerca de ' + semana + ' peças por semana</div></div>' +
+      '<p class="why">A quantidade passa dos nossos planos prontos. Monte com a gente um plano do tamanho da sua rotina, com coleta toda semana no mesmo dia e horário.</p>';
+  } else {
+    html = '<h2>O plano ideal para você</h2>' +
+      '<div class="plan"><small>Para ' + pessoas + '</small><h3>' + p.nome + ' · ' + tier[0] + ' peças</h3>' +
+      '<div class="price">' + brl(tier[1]) + ' <span>/mês</span></div>' +
+      '<div class="sub">ou 3x de ' + brl(tier[1] / 3) + ' no cartão</div>' +
+      '<div class="chips"><span class="chip">' + porSemana + ' peças por semana</span><span class="chip">' + brl(porPeca) + ' por peça</span><span class="chip">Coleta e entrega grátis</span></div></div>' +
+      '<p class="why">Pela sua resposta (' + oque + '), sua casa usa cerca de <b>' + semana + ' peças por semana</b>.' +
+      (extra ? ' Isso passa um pouco do plano: as peças extras têm um pequeno adicional, ou ajustamos o plano no WhatsApp.' : '') +
+      ' Toda semana, no mesmo dia e horário, devolvemos a roupa limpa e já levamos a da semana.</p>';
+  }
+  var msg = "Olá! Fiz o teste \"Qual plano é o seu?\" no site. Somos " + pessoas + ", vou mandar " + oque + ". " +
+    (personal ? "Deu cerca de " + semana + " peças por semana e preciso de um plano personalizado." :
+      "O plano sugerido foi " + p.nome + " " + tier[0] + " peças (" + brl(tier[1]) + "/mês).") + " Pode me ajudar?";
+  html += '<a class="wa" href="https://wa.me/' + WHATS + '?text=' + encodeURIComponent(msg) + '" target="_blank" rel="noopener">Quero este plano no WhatsApp</a>' +
+    '<div class="bonus"><b>Bônus de quem tem plano:</b> desconto especial em edredons, ternos e vestidos de festa.</div>' +
+    '<p class="fine">Estimativa com base em uma rotina média: todas as peças contam, e 1 par de meias vale 1 peça. Confirmamos e ajustamos tudo com você pelo WhatsApp. O plano inclui roupas do dia a dia e também peças sociais e de cama, com condições explicadas no atendimento. Fidelidade de 3 ciclos de 4 semanas. Coleta e entrega grátis em Governador Valadares.</p>' +
+    '<button type="button" class="redo" onclick="location.reload()">Refazer o teste</button>';
+  $("#res").innerHTML = html;
+}
+show(1);
+</script>
+</body>
+</html>

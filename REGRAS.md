@@ -16,6 +16,8 @@
 - Pagamento: Pix, dinheiro e todos os cartões. Serviços acima de R$ 100: até 3x no cartão (confirmar com o dono antes de divulgar parcelamento para planos mensais).
 - Como funciona o plano mensal: coleta semanal em dia e horário fixos (ex.: segunda 8h); na semana seguinte, no mesmo horário, devolve a roupa limpa e coleta a nova. Ciclo contínuo.
 - Planos incluem roupas do dia a dia, e também peças sociais e de cama (com condições explicadas no WhatsApp — não divulgar as condições). NÃO incluem ternos, vestidos de festa, edredons etc. (são avulsos), mas assinante de plano tem desconto especial nesses itens.
-- Peças excedentes no plano têm adicional; a quantidade vale por ciclo de 4 semanas e reinicia. Fidelidade de 3 ciclos (só divulgar após o dono confirmar).
+- Peças excedentes no plano têm adicional; a quantidade vale por ciclo de 4 semanas e reinicia. Fidelidade de 3 ciclos (pode divulgar).
 - Parcelamento em até 3x no cartão para qualquer serviço acima de R$ 100, inclusive planos.
 - Empresas: orçamento/proposta enviado no mesmo dia da solicitação.
+- Contagem de peças: todas as peças contam (1 par de meias = 1 peça). Fidelidade de 3 ciclos PODE ser divulgada.
+- Referência para posts: 1 adulto mandando só roupa de sair/trabalho ≈ 14 peças/semana (plano 80); 1 adulto mandando toda a roupa ≈ 30/semana (plano 120). Jornada "Qual plano é o seu?" em site/qual-plano.html.
