@@ -15,3 +15,7 @@
 - Prazo médio de entrega: 2 a 3 dias (peças especiais podem variar).
 - Pagamento: Pix, dinheiro e todos os cartões. Serviços acima de R$ 100: até 3x no cartão (confirmar com o dono antes de divulgar parcelamento para planos mensais).
 - Como funciona o plano mensal: coleta semanal em dia e horário fixos (ex.: segunda 8h); na semana seguinte, no mesmo horário, devolve a roupa limpa e coleta a nova. Ciclo contínuo.
+- Planos incluem roupas do dia a dia, e também peças sociais e de cama (com condições explicadas no WhatsApp — não divulgar as condições). NÃO incluem ternos, vestidos de festa, edredons etc. (são avulsos), mas assinante de plano tem desconto especial nesses itens.
+- Peças excedentes no plano têm adicional; a quantidade vale por ciclo de 4 semanas e reinicia. Fidelidade de 3 ciclos (só divulgar após o dono confirmar).
+- Parcelamento em até 3x no cartão para qualquer serviço acima de R$ 100, inclusive planos.
+- Empresas: orçamento/proposta enviado no mesmo dia da solicitação.
