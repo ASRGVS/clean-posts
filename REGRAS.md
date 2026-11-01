@@ -23,3 +23,4 @@
 - Referência para posts: 1 adulto mandando só roupa de sair/trabalho ≈ 14 peças/semana (plano 80); 1 adulto mandando toda a roupa ≈ 30/semana (plano 120). Jornada "Qual plano é o seu?" em site/qual-plano.html.
 - Tabela completa de planos e pacotes (até 240 peças) em tabela-completa.md. Todas as faixas podem ser divulgadas (liberado pelo dono em 01/11/2026), inclusive as maiores, para famílias. Exceção: não divulgar 160 peças em L+D/L+P.
 - Interno (não divulgar como destaque): nos serviços com passadoria, cabides limitados a 30% das peças.
+- PROMOÇÃO ATIVA (desde 01/11/2026, vale em novembro e dezembro até o dono mandar parar): quem fechar qualquer plano mensal ganha a higienização grátis de 1 edredom de qualquer tamanho. Pode ser usada nos posts de planos.
