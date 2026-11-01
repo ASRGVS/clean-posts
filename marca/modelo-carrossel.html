@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<style>
+:root{--azul:#0f62ac;--ciano:#00afef;--laranja:#f58634;--tinta:#0a2f57}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Poppins,sans-serif}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;padding:100px 90px}
+.b{position:absolute;border-radius:50%;background:rgba(255,255,255,.10);border:3px solid rgba(255,255,255,.22)}
+.wave{position:absolute;left:0;right:0;bottom:0;height:300px}
+/* capa */
+.capa{background:var(--azul);color:#fff}
+.capa{display:flex;flex-direction:column}.capa .logo{width:300px;display:block}.capa .txt{margin-top:auto;margin-bottom:auto;position:relative;z-index:2}
+.pill{display:inline-block;background:var(--laranja);color:#fff;font-weight:700;font-size:30px;letter-spacing:.06em;padding:12px 30px;border-radius:40px;margin-top:0}
+.capa h1{font-weight:700;font-size:110px;line-height:1.08;margin-top:36px;letter-spacing:-.01em}
+.capa h1 span{color:var(--ciano)}
+.capa p{font-size:40px;margin-top:36px;opacity:.92;font-weight:400}
+.seta{position:absolute;bottom:100px;right:90px;font-size:32px;font-weight:600;color:#fff;background:rgba(255,255,255,.14);padding:16px 34px;border-radius:40px;z-index:2}
+/* dicas */
+.dicas{background:#fff;color:var(--tinta)}
+.dicas h2{font-weight:700;font-size:64px;line-height:1.12;color:var(--azul)}
+.dicas h2 span{color:var(--laranja)}
+.item{display:flex;gap:40px;align-items:flex-start;margin-top:64px}
+.n{flex:none;width:110px;height:110px;border-radius:50%;background:var(--ciano);color:#fff;font-weight:700;font-size:54px;display:flex;align-items:center;justify-content:center}
+.item h3{font-weight:700;font-size:44px;line-height:1.15}
+.item p{font-size:34px;line-height:1.4;color:#4a6078;margin-top:10px}
+.dicas .wave path{fill:var(--azul)}
+.dicas .handle{position:absolute;left:90px;bottom:70px;color:#fff;font-size:30px;font-weight:600;z-index:2}
+/* cta */
+.cta{background:linear-gradient(180deg,#e9f7fe 0%,#fff 60%);color:var(--tinta);text-align:center;display:flex;flex-direction:column;align-items:center}
+.cta .logo{width:520px;margin-top:40px}
+.cta h2{font-weight:700;font-size:84px;line-height:1.1;margin-top:110px;color:var(--azul)}
+.cta h2 span{color:var(--ciano)}
+.cta p{font-size:40px;line-height:1.4;margin-top:34px;color:#4a6078;max-width:820px}
+.cta .pill{margin-top:70px;font-size:38px;padding:22px 50px;letter-spacing:0}
+.cta .wave path{fill:var(--azul)}
+.cta .zap{position:absolute;bottom:80px;left:0;right:0;color:#fff;font-size:36px;font-weight:600;z-index:2}
+</style></head><body>
+
+<!-- 1 capa -->
+<div class="s capa">
+ <div class="b" style="width:380px;height:380px;right:-130px;top:-130px"></div>
+ <div class="b" style="width:520px;height:520px;right:-160px;bottom:-200px"></div>
+ <div class="b" style="width:170px;height:170px;right:380px;bottom:150px"></div>
+ <div class="b" style="width:80px;height:80px;right:110px;bottom:560px"></div>
+ <img class="logo" src="/home/claude/brand/logo-branca.png">
+ <div class="txt"><div class="pill">DICA CLEAN · TEMPO DE CHUVA</div>
+ <h1>Roupa com <span>cheiro de guardado?</span></h1>
+ <p>3 cuidados rápidos pra resolver de vez.</p></div>
+ <div class="seta">Arraste →</div>
+</div>
+
+<!-- 2 dicas -->
+<div class="s dicas">
+ <h2>Na chuva, o segredo<br>está <span>depois da lavagem</span></h2>
+ <div class="item"><div class="n">1</div><div><h3>Estenda assim que lavar</h3><p>Roupa molhada parada na máquina é onde o mofo começa.</p></div></div>
+ <div class="item"><div class="n">2</div><div><h3>Espaço no varal</h3><p>Peças amontoadas não secam, abafam.</p></div></div>
+ <div class="item"><div class="n">3</div><div><h3>Guarde só 100% seca</h3><p>Confira gola, cós e costuras antes de dobrar.</p></div></div>
+ <svg class="wave" viewBox="0 0 1080 300" preserveAspectRatio="none"><path d="M0,140 C260,40 520,220 1080,90 L1080,300 L0,300 Z"/></svg>
+ <div class="handle">@lavanderia.cleangv</div>
+</div>
+
+<!-- 3 cta -->
+<div class="s cta">
+ <img class="logo" src="/home/claude/brand/logo-cor.png">
+ <h2>Choveu?<br><span>Deixa com a gente.</span></h2>
+ <p>Lavamos, secamos e devolvemos tudo dobrado ou passado.</p>
+ <div class="pill">Coleta e entrega grátis em GV</div>
+ <svg class="wave" viewBox="0 0 1080 300" preserveAspectRatio="none"><path d="M0,120 C300,220 640,20 1080,130 L1080,300 L0,300 Z"/></svg>
+ <div class="zap">Chame no WhatsApp · link na bio</div>
+</div>
+
+</body></html>
