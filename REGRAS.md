@@ -24,3 +24,10 @@
 - Tabela completa de planos e pacotes (até 240 peças) em tabela-completa.md. Todas as faixas podem ser divulgadas (liberado pelo dono em 01/11/2026), inclusive as maiores, para famílias. Exceção: não divulgar 160 peças em L+D/L+P.
 - Interno (não divulgar como destaque): nos serviços com passadoria, cabides limitados a 30% das peças.
 - PROMOÇÃO ATIVA (desde 01/11/2026, vale em novembro e dezembro até o dono mandar parar): quem fechar qualquer plano mensal ganha a higienização grátis de 1 edredom de qualquer tamanho. Pode ser usada nos posts de planos.
+
+## Facebook (aquecimento da Página)
+- Todo post do feed do Instagram também sai na Página do Facebook (mesmo horário).
+- Além disso, 1 post por dia SÓ no Facebook (itens com "tipo": "facebook" no calendario.json), em horário diferente do feed. Rodízio: seg edredom com preço; ter pacote Limpo + Dobrado; qua plano mensal da semana; qui pergunta para a comunidade de GV; sex empresas (WhatsApp 98749-0985); sáb como funciona; dom dica para salvar. Nunca repetir o tema nem a arte do feed ou do story do mesmo dia; variar o ângulo semana a semana.
+- Estilo da arte: cards como posts/2026-11-01/facebook/fb01–fb12 (1080x1350), legenda curta terminando com o link do WhatsApp.
+- Posts de pergunta: o objetivo é comentário. Responder os comentários no mesmo dia.
+- Stories: a API não publica story no Facebook; eles chegam à Página pelo compartilhamento automático de stories do Instagram (configurado no app).
