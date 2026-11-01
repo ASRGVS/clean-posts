@@ -1,36 +1,308 @@
 [
-{"data":"2026-11-01","hora":"19:00","formato":"Carrossel","tema":"Roupa com cheiro de guardado na chuva: 3 cuidados","objetivo":"Salvamentos","status":"Aprovado","precisa":""},
-{"data":"2026-11-02","hora":"19:00","formato":"Carrossel","tema":"Guia rápido: o que significam os símbolos da etiqueta","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-03","hora":"12:00","formato":"Post único","tema":"Planos mensais: roupa pronta toda semana a partir de R$ 219,90","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-03","hora":"19:00","formato":"Carrossel","tema":"Por que a toalha fica áspera (e como deixar macia de novo)","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-04","hora":"19:00","formato":"Antes e depois","tema":"Edredom encardido x higienizado na Clean","objetivo":"Alcance","status":"","precisa":"Fotos de antes e depois de um edredom"},
-{"data":"2026-11-05","hora":"12:00","formato":"Post único","tema":"Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-05","hora":"19:00","formato":"Carrossel","tema":"Quanto tempo você gasta com roupa por semana? A conta assusta","objetivo":"Compartilhamentos","status":"","precisa":""},
-{"data":"2026-11-06","hora":"19:00","formato":"Bastidores","tema":"Sua roupa nunca se mistura: como separamos cada cliente","objetivo":"Confiança","status":"","precisa":"Foto ou vídeo curto da separação por cliente"},
-{"data":"2026-11-07","hora":"10:00","formato":"Post único","tema":"Fim de semana livre: pacote de 20 peças por R$ 69,90","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-08","hora":"19:00","formato":"Carrossel","tema":"De quanto em quanto tempo lavar lençol, fronha, toalha e edredom","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-09","hora":"12:00","formato":"Carrossel","tema":"Camisa branca amarelada no sovaco: o que fazer e o que evitar","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-10","hora":"12:00","formato":"Post único","tema":"Pacote de camisas sociais: 5 por R$ 69,90, entregues no cabide","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-10","hora":"19:00","formato":"Carrossel","tema":"Calor em GV: roupa de academia com cheiro mesmo depois de lavar","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-11","hora":"12:00","formato":"Post único","tema":"Salões e clínicas: toalhas, jalecos e roupões com faturamento mensal","objetivo":"Contato B2B","status":"","precisa":""},
-{"data":"2026-11-12","hora":"12:00","formato":"Carrossel","tema":"Vestido de festa: como guardar depois do evento","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-12","hora":"19:00","formato":"Post único","tema":"Formaturas e casamentos: terno lavado e passado a partir de R$ 70","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-13","hora":"12:00","formato":"Bastidores","tema":"Quem cuida da sua roupa: apresente a equipe","objetivo":"Confiança","status":"","precisa":"Foto da equipe (com autorização de cada um)"},
-{"data":"2026-11-14","hora":"10:00","formato":"Post único","tema":"Verão chegando: higienize edredons e cobertores antes de guardar","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-15","hora":"19:00","formato":"Post interativo","tema":"Qual tarefa de casa você mais adia? (enquete nos comentários e no story)","objetivo":"Comentários","status":"","precisa":""},
-{"data":"2026-11-16","hora":"08:00","formato":"Post único","tema":"Comece a semana sem pilha: plano Limpo + Dobrado","objetivo":"WhatsApp","status":"","precisa":""},
-{"data":"2026-11-17","hora":"19:00","formato":"Carrossel","tema":"5 erros na máquina de lavar que estragam a roupa","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-18","hora":"08:00","formato":"Antes e depois","tema":"Tapete ou estofado antes e depois (Higiclean)","objetivo":"Alcance","status":"","precisa":"Fotos de antes e depois"},
-{"data":"2026-11-19","hora":"19:00","formato":"Carrossel","tema":"Uniforme da empresa: por que lavar fora sai mais barato","objetivo":"Contato B2B","status":"","precisa":""},
-{"data":"2026-11-20","hora":"10:00","formato":"Post único","tema":"Feriado prolongado: aproveite, a roupa fica com a gente","objetivo":"WhatsApp","status":"","precisa":"Confirmar funcionamento no feriado de 20/11"},
-{"data":"2026-11-21","hora":"10:00","formato":"Depoimento","tema":"O que os clientes dizem (avaliação real do Google)","objetivo":"Confiança","status":"","precisa":"Escolher 1 avaliação real do Google"},
-{"data":"2026-11-22","hora":"19:00","formato":"Post único","tema":"Vem aí a Black Friday Clean (aviso, ative o lembrete)","objetivo":"Expectativa","status":"","precisa":"Definir a oferta de Black Friday"},
-{"data":"2026-11-23","hora":"melhor","formato":"Carrossel","tema":"Ácaros no travesseiro: quando lavar e quando trocar","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-24","hora":"melhor","formato":"Post único","tema":"Black Friday Clean: a oferta","objetivo":"WhatsApp","status":"","precisa":"Oferta definida"},
-{"data":"2026-11-25","hora":"melhor","formato":"Carrossel","tema":"Casa pronta para as visitas de fim de ano: checklist do enxoval","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-26","hora":"melhor","formato":"Post único","tema":"Réveillon e férias: enxoval de temporada para Airbnb e pousadas","objetivo":"Contato B2B","status":"","precisa":""},
-{"data":"2026-11-27","hora":"melhor","formato":"Post único + story","tema":"É hoje: Black Friday Clean","objetivo":"WhatsApp","status":"","precisa":"Oferta definida"},
-{"data":"2026-11-28","hora":"10:00","formato":"Antes e depois","tema":"Roupa branca recuperada","objetivo":"Alcance","status":"","precisa":"Fotos de antes e depois"},
-{"data":"2026-11-29","hora":"19:00","formato":"Carrossel","tema":"Roupa branca encardida: 3 truques que funcionam","objetivo":"Salvamentos","status":"","precisa":""},
-{"data":"2026-11-30","hora":"melhor","formato":"Post único","tema":"Dezembro sem pilha de roupa: garanta seu plano mensal","objetivo":"WhatsApp","status":"","precisa":""}
+ {
+  "data": "2026-11-01",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Roupa com cheiro de guardado na chuva: 3 cuidados",
+  "objetivo": "Salvamentos",
+  "status": "Aprovado",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Guia rápido: o que significam os símbolos da etiqueta (+ aviso: abrimos normalmente no feriado)",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "12:00",
+  "formato": "Post único",
+  "tema": "Planos mensais: roupa pronta toda semana a partir de R$ 219,90",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Por que a toalha fica áspera (e como deixar macia de novo)",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "19:00",
+  "formato": "Antes e depois",
+  "tema": "Edredom encardido x higienizado na Clean",
+  "objetivo": "Alcance",
+  "status": "",
+  "precisa": "Fotos de antes e depois de um edredom"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "12:00",
+  "formato": "Post único",
+  "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Quanto tempo você gasta com roupa por semana? A conta assusta",
+  "objetivo": "Compartilhamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "19:00",
+  "formato": "Bastidores",
+  "tema": "Sua roupa nunca se mistura: como separamos cada cliente",
+  "objetivo": "Confiança",
+  "status": "",
+  "precisa": "Foto ou vídeo curto da separação por cliente"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "10:00",
+  "formato": "Post único",
+  "tema": "Fim de semana livre: pacote de 20 peças por R$ 69,90",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "De quanto em quanto tempo lavar lençol, fronha, toalha e edredom",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "12:00",
+  "formato": "Carrossel",
+  "tema": "Camisa branca amarelada no sovaco: o que fazer e o que evitar",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "12:00",
+  "formato": "Post único",
+  "tema": "Pacote de camisas sociais: 5 por R$ 69,90, entregues no cabide",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Calor em GV: roupa de academia com cheiro mesmo depois de lavar",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "12:00",
+  "formato": "Post único",
+  "tema": "Salões e clínicas: toalhas, jalecos e roupões com faturamento mensal",
+  "objetivo": "Contato B2B",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "12:00",
+  "formato": "Carrossel",
+  "tema": "Vestido de festa: como guardar depois do evento",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "19:00",
+  "formato": "Post único",
+  "tema": "Formaturas e casamentos: terno lavado e passado a partir de R$ 70",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "12:00",
+  "formato": "Bastidores",
+  "tema": "Quem cuida da sua roupa: apresente a equipe",
+  "objetivo": "Confiança",
+  "status": "",
+  "precisa": "Foto da equipe (com autorização de cada um)"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "10:00",
+  "formato": "Post único",
+  "tema": "Verão chegando: higienize edredons e cobertores antes de guardar",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "19:00",
+  "formato": "Post interativo",
+  "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários e no story)",
+  "objetivo": "Comentários",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "08:00",
+  "formato": "Post único",
+  "tema": "Comece a semana sem pilha: plano Limpo + Dobrado",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "5 erros na máquina de lavar que estragam a roupa",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "08:00",
+  "formato": "Antes e depois",
+  "tema": "Uniforme com mancha de gordura: antes e depois",
+  "objetivo": "Alcance",
+  "status": "",
+  "precisa": "Fotos de antes e depois de um uniforme"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Uniforme da empresa: por que lavar fora sai mais barato",
+  "objetivo": "Contato B2B",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "10:00",
+  "formato": "Post único",
+  "tema": "Feriado de Consciência Negra: a Clean abre normalmente, a roupa fica com a gente",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "10:00",
+  "formato": "Depoimento",
+  "tema": "O que os clientes dizem (avaliação real do Google)",
+  "objetivo": "Confiança",
+  "status": "",
+  "precisa": "Escolher 1 avaliação real do Google"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "19:00",
+  "formato": "Post único",
+  "tema": "Vem aí a Black Friday Clean (aviso, ative o lembrete)",
+  "objetivo": "Expectativa",
+  "status": "",
+  "precisa": "Definir a oferta de Black Friday"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "melhor",
+  "formato": "Carrossel",
+  "tema": "Ácaros no travesseiro: quando lavar e quando trocar",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "melhor",
+  "formato": "Post único",
+  "tema": "Black Friday Clean: a oferta",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": "Oferta definida"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "melhor",
+  "formato": "Carrossel",
+  "tema": "Casa pronta para as visitas de fim de ano: checklist do enxoval",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "melhor",
+  "formato": "Post único",
+  "tema": "Réveillon e férias: enxoval de temporada para Airbnb e pousadas",
+  "objetivo": "Contato B2B",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "melhor",
+  "formato": "Post único + story",
+  "tema": "É hoje: Black Friday Clean",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": "Oferta definida"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "10:00",
+  "formato": "Antes e depois",
+  "tema": "Roupa branca recuperada",
+  "objetivo": "Alcance",
+  "status": "",
+  "precisa": "Fotos de antes e depois"
+ },
+ {
+  "data": "2026-11-29",
+  "hora": "19:00",
+  "formato": "Carrossel",
+  "tema": "Roupa branca encardida: 3 truques que funcionam",
+  "objetivo": "Salvamentos",
+  "status": "",
+  "precisa": ""
+ },
+ {
+  "data": "2026-11-30",
+  "hora": "melhor",
+  "formato": "Post único",
+  "tema": "Dezembro sem pilha de roupa: garanta seu plano mensal",
+  "objetivo": "WhatsApp",
+  "status": "",
+  "precisa": ""
+ }
 ]
