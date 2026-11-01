@@ -31,3 +31,7 @@
 - Estilo da arte: cards como posts/2026-11-01/facebook/fb01–fb12 (1080x1350), legenda curta terminando com o link do WhatsApp.
 - Posts de pergunta: o objetivo é comentário. Responder os comentários no mesmo dia.
 - Stories: a API não publica story no Facebook; eles chegam à Página pelo compartilhamento automático de stories do Instagram (configurado no app).
+
+## Imagem da peça nos posts de serviço
+- Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
+- Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Enquanto não houver foto, usar ilustração da peça no padrão de posts/2026-11-01/facebook/fb01-v2.jpg (edredom dobrado em embalagem plástica com etiqueta Clean "HIGIENIZADO ✓").
