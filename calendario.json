@@ -6,16 +6,48 @@
   "tema": "Roupa com cheiro de guardado na chuva: 3 cuidados",
   "objetivo": "Salvamentos",
   "status": "Aprovado",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-01",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Como funciona a Clean em 3 passos: coleta, cuidado e entrega",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "08:00",
+  "formato": "Post único · feriado",
+  "tema": "Feriado de Finados: estamos funcionando para ajudar sua família na rotina",
+  "objetivo": "Aviso",
+  "status": "",
+  "precisa": "",
+  "tipo": "post"
  },
  {
   "data": "2026-11-02",
   "hora": "19:00",
   "formato": "Carrossel",
-  "tema": "Guia rápido: o que significam os símbolos da etiqueta (+ aviso: abrimos normalmente no feriado)",
+  "tema": "Guia rápido: o que significam os símbolos da etiqueta",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-02",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Enquete: você prefere roupa dobrada ou passada?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-03",
@@ -24,7 +56,8 @@
   "tema": "Planos mensais: roupa pronta toda semana a partir de R$ 219,90",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
  },
  {
   "data": "2026-11-03",
@@ -33,7 +66,18 @@
   "tema": "Por que a toalha fica áspera (e como deixar macia de novo)",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-03",
+  "hora": "09:00",
+  "formato": "Story",
+  "tema": "Você sabia? Usamos amaciante Downy Lírios ou Brisa",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-04",
@@ -42,7 +86,18 @@
   "tema": "Edredom encardido x higienizado na Clean",
   "objetivo": "Alcance",
   "status": "",
-  "precisa": "Fotos de antes e depois de um edredom"
+  "precisa": "Fotos de antes e depois de um edredom",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-04",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Verdadeiro ou falso: mais sabão deixa a roupa mais limpa?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-05",
@@ -51,7 +106,8 @@
   "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
  },
  {
   "data": "2026-11-05",
@@ -60,7 +116,18 @@
   "tema": "Quanto tempo você gasta com roupa por semana? A conta assusta",
   "objetivo": "Compartilhamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-05",
+  "hora": "09:00",
+  "formato": "Story",
+  "tema": "Coleta e entrega grátis em toda Governador Valadares",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-06",
@@ -69,7 +136,18 @@
   "tema": "Sua roupa nunca se mistura: como separamos cada cliente",
   "objetivo": "Confiança",
   "status": "",
-  "precisa": "Foto ou vídeo curto da separação por cliente"
+  "precisa": "Foto ou vídeo curto da separação por cliente",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-06",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Dica de 10 segundos: lave roupa escura do avesso",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-07",
@@ -78,7 +156,18 @@
   "tema": "Fim de semana livre: pacote de 20 peças por R$ 69,90",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-07",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Horário de funcionamento: segunda a sábado, inclusive feriados",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-08",
@@ -87,7 +176,18 @@
   "tema": "De quanto em quanto tempo lavar lençol, fronha, toalha e edredom",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-08",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Caixinha de perguntas: tire sua dúvida sobre cuidados com roupa",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-09",
@@ -96,7 +196,18 @@
   "tema": "Camisa branca amarelada no sovaco: o que fazer e o que evitar",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-09",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Pacote 30 peças limpo e dobrado por R$ 89,90",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-10",
@@ -105,7 +216,8 @@
   "tema": "Pacote de camisas sociais: 5 por R$ 69,90, entregues no cabide",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
  },
  {
   "data": "2026-11-10",
@@ -114,7 +226,18 @@
   "tema": "Calor em GV: roupa de academia com cheiro mesmo depois de lavar",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-10",
+  "hora": "09:00",
+  "formato": "Story",
+  "tema": "Enquete: você passa roupa ou foge do ferro?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-11",
@@ -123,7 +246,18 @@
   "tema": "Salões e clínicas: toalhas, jalecos e roupões com faturamento mensal",
   "objetivo": "Contato B2B",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-11",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Dica: jeans dura mais lavado do avesso e em água fria",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-12",
@@ -132,7 +266,8 @@
   "tema": "Vestido de festa: como guardar depois do evento",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
  },
  {
   "data": "2026-11-12",
@@ -141,7 +276,18 @@
   "tema": "Formaturas e casamentos: terno lavado e passado a partir de R$ 70",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-12",
+  "hora": "09:00",
+  "formato": "Story",
+  "tema": "Como pedir pelo WhatsApp em 1 minuto",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-13",
@@ -150,7 +296,18 @@
   "tema": "Quem cuida da sua roupa: apresente a equipe",
   "objetivo": "Confiança",
   "status": "",
-  "precisa": "Foto da equipe (com autorização de cada um)"
+  "precisa": "Foto da equipe (com autorização de cada um)",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-13",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Verdadeiro ou falso: água quente tira qualquer mancha?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-14",
@@ -159,7 +316,18 @@
   "tema": "Verão chegando: higienize edredons e cobertores antes de guardar",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-14",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Família grande? Temos planos personalizados",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-15",
@@ -168,7 +336,18 @@
   "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários e no story)",
   "objetivo": "Comentários",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-15",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Enquete: quantas peças sua casa lava por semana?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-16",
@@ -177,7 +356,18 @@
   "tema": "Comece a semana sem pilha: plano Limpo + Dobrado",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-16",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Dica: dobre camisetas do mesmo tamanho e ganhe espaço na gaveta",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-17",
@@ -186,7 +376,18 @@
   "tema": "5 erros na máquina de lavar que estragam a roupa",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Diferencial: sua roupa é lavada separada, nunca misturada",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-18",
@@ -195,7 +396,18 @@
   "tema": "Uniforme com mancha de gordura: antes e depois",
   "objetivo": "Alcance",
   "status": "",
-  "precisa": "Fotos de antes e depois de um uniforme"
+  "precisa": "Fotos de antes e depois de um uniforme",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Restaurantes e pizzarias: toalhas de mesa e uniformes sempre prontos",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-19",
@@ -204,16 +416,38 @@
   "tema": "Uniforme da empresa: por que lavar fora sai mais barato",
   "objetivo": "Contato B2B",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Quiz: o que significa o triângulo na etiqueta?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-20",
-  "hora": "10:00",
-  "formato": "Post único",
-  "tema": "Feriado de Consciência Negra: a Clean abre normalmente, a roupa fica com a gente",
+  "hora": "08:00",
+  "formato": "Post único · feriado",
+  "tema": "Feriado de Consciência Negra: estamos funcionando para ajudar sua família na rotina",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Contagem regressiva: Black Friday Clean vem aí",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-21",
@@ -222,7 +456,18 @@
   "tema": "O que os clientes dizem (avaliação real do Google)",
   "objetivo": "Confiança",
   "status": "",
-  "precisa": "Escolher 1 avaliação real do Google"
+  "precisa": "Escolher 1 avaliação real do Google",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Camisa social lavada e passada no cabide por R$ 15",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-22",
@@ -231,7 +476,18 @@
   "tema": "Vem aí a Black Friday Clean (aviso, ative o lembrete)",
   "objetivo": "Expectativa",
   "status": "",
-  "precisa": "Definir a oferta de Black Friday"
+  "precisa": "Definir a oferta de Black Friday",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Dica: como tirar o cheiro de suor da camisa",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-23",
@@ -240,7 +496,18 @@
   "tema": "Ácaros no travesseiro: quando lavar e quando trocar",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "Enquete: qual peça você mais gostaria de mandar para a lavanderia?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-24",
@@ -249,7 +516,18 @@
   "tema": "Black Friday Clean: a oferta",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Oferta definida"
+  "precisa": "Oferta definida",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "Dica: o teste da dobra para saber se o travesseiro precisa de troca",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-25",
@@ -258,7 +536,18 @@
   "tema": "Casa pronta para as visitas de fim de ano: checklist do enxoval",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "Pacote de 10 camisas sociais por R$ 134,90",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-26",
@@ -267,16 +556,38 @@
   "tema": "Réveillon e férias: enxoval de temporada para Airbnb e pousadas",
   "objetivo": "Contato B2B",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "Verdadeiro ou falso: amaciante demais deixa a toalha menos absorvente?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-27",
   "hora": "melhor",
-  "formato": "Post único + story",
+  "formato": "Post único",
   "tema": "É hoje: Black Friday Clean",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Oferta definida"
+  "precisa": "Oferta definida",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "O que os clientes dizem (outra avaliação real do Google)",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "Escolher outra avaliação real do Google",
+  "tipo": "story"
  },
  {
   "data": "2026-11-28",
@@ -285,7 +596,18 @@
   "tema": "Roupa branca recuperada",
   "objetivo": "Alcance",
   "status": "",
-  "precisa": "Fotos de antes e depois"
+  "precisa": "Fotos de antes e depois",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Enquete: o enxoval do Natal já está pronto?",
+  "objetivo": "Interação",
+  "status": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "tipo": "story"
  },
  {
   "data": "2026-11-29",
@@ -294,7 +616,18 @@
   "tema": "Roupa branca encardida: 3 truques que funcionam",
   "objetivo": "Salvamentos",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-29",
+  "hora": "12:00",
+  "formato": "Story",
+  "tema": "Dica: 3 cuidados para a roupa preta não desbotar",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  },
  {
   "data": "2026-11-30",
@@ -303,6 +636,17 @@
   "tema": "Dezembro sem pilha de roupa: garanta seu plano mensal",
   "objetivo": "WhatsApp",
   "status": "",
-  "precisa": ""
+  "precisa": "",
+  "tipo": "post"
+ },
+ {
+  "data": "2026-11-30",
+  "hora": "oposto",
+  "formato": "Story",
+  "tema": "Dezembro: abrimos em todos os feriados de segunda a sábado",
+  "objetivo": "Lembrete",
+  "status": "",
+  "precisa": "",
+  "tipo": "story"
  }
 ]
