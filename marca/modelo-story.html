@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<style>
+:root{--azul:#0f62ac;--ciano:#00afef;--laranja:#f58634;--tinta:#0a2f57}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Poppins,sans-serif}
+.s{width:1080px;height:1920px;position:relative;overflow:hidden;background:var(--azul);color:#fff;padding:220px 90px 0;display:flex;flex-direction:column}
+.b{position:absolute;border-radius:50%;background:rgba(255,255,255,.10);border:3px solid rgba(255,255,255,.22)}
+.logo{width:340px;display:block}
+.pill{align-self:flex-start;background:var(--laranja);font-weight:700;font-size:32px;letter-spacing:.05em;padding:12px 32px;border-radius:40px;margin-top:110px}
+h1{font-weight:700;font-size:100px;line-height:1.06;margin-top:34px}
+h1 span{color:var(--ciano)}
+.passos{margin-top:80px;display:flex;flex-direction:column;gap:34px;position:relative;z-index:2}
+.p{background:#fff;color:var(--tinta);border-radius:32px;padding:36px 40px;display:flex;align-items:center;gap:34px}
+.n{flex:none;width:96px;height:96px;border-radius:50%;background:var(--ciano);color:#fff;font-weight:700;font-size:48px;display:flex;align-items:center;justify-content:center}
+.p h3{font-weight:700;font-size:44px;line-height:1.1;color:var(--azul)}
+.p p{font-size:32px;color:#4a6078;margin-top:4px}
+.rod{position:absolute;left:0;right:0;bottom:0;height:330px}
+.rod path{fill:#fff}
+.cta{position:absolute;left:0;right:0;bottom:120px;text-align:center;color:var(--azul);font-weight:700;font-size:40px;z-index:2}
+</style></head><body>
+<div class="s">
+ <div class="b" style="width:420px;height:420px;right:-150px;top:-120px"></div>
+ <div class="b" style="width:140px;height:140px;right:120px;top:420px"></div>
+ <img class="logo" src="/home/claude/brand/logo-branca.png">
+ <div class="pill">COMO FUNCIONA</div>
+ <h1>Sua roupa pronta <span>em 3 passos</span></h1>
+ <div class="passos">
+  <div class="p"><div class="n">1</div><div><h3>A gente busca</h3><p>Coleta grátis na sua casa ou trabalho</p></div></div>
+  <div class="p"><div class="n">2</div><div><h3>A gente cuida</h3><p>Lavada separada, com Downy</p></div></div>
+  <div class="p"><div class="n">3</div><div><h3>A gente entrega</h3><p>Dobrada ou passada, pronta pra usar</p></div></div>
+ </div>
+ <svg class="rod" viewBox="0 0 1080 330" preserveAspectRatio="none"><path d="M0,120 C300,220 640,20 1080,130 L1080,330 L0,330 Z"/></svg>
+ <div class="cta">Chame no WhatsApp · link na bio</div>
+</div>
+</body></html>
