@@ -34,4 +34,4 @@
 
 ## Imagem da peça nos posts de serviço
 - Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
-- Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Enquanto não houver foto, usar ilustração da peça no padrão de posts/2026-11-01/facebook/fb01-v2.jpg (edredom dobrado em embalagem plástica com etiqueta Clean "HIGIENIZADO ✓").
+- Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png; modelo de arte com foto: posts/2026-11-01/facebook/fb01-v3.jpg). Sem foto da peça: pedir ao dono (ele gera no ChatGPT com a logo) antes de publicar.
