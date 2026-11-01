@@ -62,7 +62,7 @@ h2{{font-size:20px;margin:36px 0 10px}}ul{{background:#fff;border-radius:16px;pa
 <header><img src="data:image/png;base64,{logo}" alt="Clean"><div><h1>Calendário de posts · Novembro 2026</h1><p>@lavanderia.cleangv · todo post e story passa por aprovação antes de publicar</p></div></header>
 <div class="cards">
 <div class="card"><b>{np}</b><span>posts no feed</span></div>
-<div class="card"><b>{ns}</b><span>stories, um por dia, sempre com tema diferente do feed</span></div>
+<div class="card"><b>{ns}</b><span>stories, um por dia, com tema diferente do feed; 15 com preço</span></div>
 <div class="card"><b>{ned} · {npl} · {npa}</b><span>posts de edredom · planos mensais · pacotes avulsos</span></div>
 <div class="card"><b>2/11 e 20/11</b><span>posts avisando que abrimos no feriado</span></div>
 </div>
@@ -70,7 +70,7 @@ h2{{font-size:20px;margin:36px 0 10px}}ul{{background:#fff;border-radius:16px;pa
 <h2>Regras fixas</h2><ul>
 <li>A Clean é especializada em roupas: nada de tapetes, cortinas ou estofados.</li>
 <li>Todo feriado de segunda a sábado tem um post leve avisando que estamos funcionando para ajudar as famílias na rotina. Domingo é fechado.</li>
-<li>Story e feed do mesmo dia nunca repetem o assunto.</li><li>Prioridade de captação: higienização de edredom, pacotes Limpo + Dobrado e planos mensais (um post para cada plano). Feed testa 12h × 19h × 8h nas 3 primeiras semanas.</li></ul>
+<li>Story e feed do mesmo dia nunca repetem o assunto. Metade dos stories mostra preço, em dias alternados.</li><li>WhatsApp: pessoa física (33) 98761-0434 · empresas, Airbnb, restaurantes, salões e uniformes (33) 98749-0985. Posts marcados com PJ usam o número de empresas.</li><li>Prioridade de captação: higienização de edredom, pacotes Limpo + Dobrado e planos mensais (um post para cada plano). Feed testa 12h × 19h × 8h nas 3 primeiras semanas.</li></ul>
 <h2>O que preciso de você ao longo do mês</h2><ul>{''.join(f'<li>{html.escape(p)}</li>' for p in pend)}</ul>
 <h2>Como vamos medir</h2><ul><li>Para cada post, comparo o alcance, os salvamentos e os compartilhamentos nas primeiras 24h.</li><li>No dia 22 escolho o horário vencedor e uso nele a semana da Black Friday.</li><li>Responder os comentários na primeira hora ajuda o post a chegar em mais gente.</li></ul>
 </div></body></html>'''

@@ -42,11 +42,11 @@
  {
   "data": "2026-11-02",
   "hora": "12:00",
-  "formato": "Story",
-  "tema": "Enquete: você prefere roupa dobrada ou passada?",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Edredom casal higienizado por R$ 60, com coleta grátis",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "precisa": "",
   "tipo": "story"
  },
  {
@@ -92,9 +92,9 @@
  {
   "data": "2026-11-04",
   "hora": "12:00",
-  "formato": "Story",
-  "tema": "Verdadeiro ou falso: mais sabão deixa a roupa mais limpa?",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Pacote Limpo + Dobrado 20 peças por R$ 69,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -112,7 +112,7 @@
  {
   "data": "2026-11-05",
   "hora": "19:00",
-  "formato": "Post único",
+  "formato": "Post único · PJ",
   "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
   "objetivo": "Contato B2B",
   "status": "",
@@ -142,9 +142,9 @@
  {
   "data": "2026-11-06",
   "hora": "12:00",
-  "formato": "Story",
-  "tema": "Dica de 10 segundos: lave roupa escura do avesso",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Plano mensal Limpo + Dobrado 100 peças: R$ 249,90/mês",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -182,11 +182,11 @@
  {
   "data": "2026-11-08",
   "hora": "12:00",
-  "formato": "Story",
-  "tema": "Caixinha de perguntas: tire sua dúvida sobre cuidados com roupa",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Plano de Passadoria 60 peças: R$ 199,90/mês · você lava, a Clean passa",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "precisa": "",
   "tipo": "story"
  },
  {
@@ -203,10 +203,10 @@
   "data": "2026-11-09",
   "hora": "19:00",
   "formato": "Story",
-  "tema": "Pacote 30 peças limpo e dobrado por R$ 89,90",
-  "objetivo": "Lembrete",
+  "tema": "Enquete: você prefere roupa dobrada ou passada?",
+  "objetivo": "Interação",
   "status": "",
-  "precisa": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
   "tipo": "story"
  },
  {
@@ -232,11 +232,11 @@
  {
   "data": "2026-11-10",
   "hora": "09:00",
-  "formato": "Story",
-  "tema": "Enquete: você passa roupa ou foge do ferro?",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Camisa social lavada e passada no cabide por R$ 15",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "precisa": "",
   "tipo": "story"
  },
  {
@@ -282,9 +282,9 @@
  {
   "data": "2026-11-12",
   "hora": "09:00",
-  "formato": "Story",
-  "tema": "Como pedir pelo WhatsApp em 1 minuto",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Pacote Limpo + Dobrado 30 peças por R$ 89,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -322,9 +322,9 @@
  {
   "data": "2026-11-14",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Família grande? Temos planos personalizados",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Plano de Passadoria 70 peças: R$ 219,90/mês",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -362,9 +362,9 @@
  {
   "data": "2026-11-16",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Dica: dobre camisetas do mesmo tamanho e ganhe espaço na gaveta",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Edredom solteiro por R$ 50: o quarto das crianças também merece",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -402,9 +402,9 @@
  {
   "data": "2026-11-18",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Restaurantes e pizzarias: toalhas de mesa e uniformes sempre prontos",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Pacote Limpo + Passado 30 peças por R$ 144,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -442,11 +442,11 @@
  {
   "data": "2026-11-20",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Contagem regressiva: Black Friday Clean vem aí",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "3 edredons ou mais: 10% de desconto",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "precisa": "",
   "tipo": "story"
  },
  {
@@ -463,10 +463,10 @@
   "data": "2026-11-21",
   "hora": "19:00",
   "formato": "Story",
-  "tema": "Camisa social lavada e passada no cabide por R$ 15",
+  "tema": "Contagem regressiva: Black Friday Clean vem aí",
   "objetivo": "Lembrete",
   "status": "",
-  "precisa": "",
+  "precisa": "Adicionar o adesivo no app antes de publicar",
   "tipo": "story"
  },
  {
@@ -482,9 +482,9 @@
  {
   "data": "2026-11-22",
   "hora": "12:00",
-  "formato": "Story",
-  "tema": "Dica: como tirar o cheiro de suor da camisa",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Festas de fim de ano: vestido de festa a partir de R$ 80",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -522,9 +522,9 @@
  {
   "data": "2026-11-24",
   "hora": "oposto",
-  "formato": "Story",
-  "tema": "Dica: o teste da dobra para saber se o travesseiro precisa de troca",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Plano mensal Limpo + Dobrado 80 peças: R$ 219,90/mês",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -543,8 +543,8 @@
   "data": "2026-11-25",
   "hora": "oposto",
   "formato": "Story",
-  "tema": "Pacote de 10 camisas sociais por R$ 134,90",
-  "objetivo": "Lembrete",
+  "tema": "Verdadeiro ou falso: amaciante demais deixa a toalha menos absorvente?",
+  "objetivo": "Interação",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -562,9 +562,9 @@
  {
   "data": "2026-11-26",
   "hora": "oposto",
-  "formato": "Story",
-  "tema": "Verdadeiro ou falso: amaciante demais deixa a toalha menos absorvente?",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Mantas, colchas e cobertores a partir de R$ 40",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"
@@ -602,11 +602,11 @@
  {
   "data": "2026-11-28",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Enquete: o enxoval do Natal já está pronto?",
-  "objetivo": "Interação",
+  "formato": "Story · preço",
+  "tema": "Pacote de 10 camisas sociais por R$ 134,90",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
+  "precisa": "",
   "tipo": "story"
  },
  {
@@ -642,9 +642,9 @@
  {
   "data": "2026-11-30",
   "hora": "oposto",
-  "formato": "Story",
-  "tema": "Dezembro: abrimos em todos os feriados de segunda a sábado",
-  "objetivo": "Lembrete",
+  "formato": "Story · preço",
+  "tema": "Edredom limpinho para o Natal: casal R$ 60, 3 ou mais com 10% off",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "story"

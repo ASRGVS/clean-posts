@@ -9,3 +9,5 @@
 - Um story por dia, sempre com assunto diferente do post do feed do mesmo dia, revezando os temas. Story em horário diferente do feed.
 - Prioridade de captação: 1) higienização de edredom (serviço principal), 2) pacotes Limpo + Dobrado, 3) planos mensais — um post por plano, mostrando a facilidade de receber roupa limpa (e passada) toda semana pagando por mês.
 - Preços oficiais: ver as páginas clean-roupa-de-cama, lavanderia-clean-planos, clean-roupas-sociais (asrgv14.chatgpt.site) e lavanderiacleangv.com. WhatsApp (33) 98761-0434.
+- WhatsApp: pessoa física → (33) 98761-0434. Empresas, Airbnb, restaurantes, salões e uniformes → (33) 98749-0985.
+- Stories: metade com preço (dias alternados), sempre de um serviço diferente do post do feed do mesmo dia.
