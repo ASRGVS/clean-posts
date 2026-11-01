@@ -21,3 +21,5 @@
 - Empresas: orçamento/proposta enviado no mesmo dia da solicitação.
 - Contagem de peças: todas as peças contam (1 par de meias = 1 peça). Fidelidade de 3 ciclos PODE ser divulgada.
 - Referência para posts: 1 adulto mandando só roupa de sair/trabalho ≈ 14 peças/semana (plano 80); 1 adulto mandando toda a roupa ≈ 30/semana (plano 120). Jornada "Qual plano é o seu?" em site/qual-plano.html.
+- Tabela completa de planos e pacotes (até 240 peças) em tabela-completa.md. Nos posts, priorizar a seleção pública (pacotes 20/30/40, planos 80/100/120, passadoria 60/70/80); faixas maiores só para mostrar que há plano para famílias (perguntar ao dono antes de divulgar preço de faixa maior). Não divulgar 160 peças em L+D/L+P.
+- Interno (não divulgar como destaque): nos serviços com passadoria, cabides limitados a 30% das peças.

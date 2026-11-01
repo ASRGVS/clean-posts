@@ -119,9 +119,10 @@ var BASE = {
 var TREINO = 7;          // por adulto que treina (só quando manda toda a roupa)
 var PASSAR = { adulto: 14, crianca: 8 }; // peças que vão para o ferro por semana
 var PLANOS = {
-  dobrado:   { nome: "Mensal Limpo + Dobrado", tiers: [[80,219.90],[100,249.90],[120,289.90]] },
-  passado:   { nome: "Mensal Limpo + Passado", tiers: [[80,319.90],[100,379.90],[120,439.90]] },
-  passadoria:{ nome: "Plano Mensal de Passadoria", tiers: [[60,199.90],[70,219.90],[80,239.90]] }
+  // Tabela completa (set/2026). 160 peças fora da seleção pública de Limpo + Dobrado e Limpo + Passado.
+  dobrado:   { nome: "Mensal Limpo + Dobrado", tiers: [[80,219.90],[100,249.90],[120,289.90],[140,329.90],[180,409.90],[200,449.90],[220,489.90],[240,529.90]] },
+  passado:   { nome: "Mensal Limpo + Passado", tiers: [[80,319.90],[100,379.90],[120,439.90],[140,499.90],[180,619.90],[200,679.90],[220,739.90],[240,799.90]] },
+  passadoria:{ nome: "Plano Mensal de Passadoria", tiers: [[60,199.90],[70,219.90],[80,239.90],[100,269.90],[120,309.90],[140,349.90],[160,389.90],[180,429.90],[200,469.90],[220,509.90],[240,549.90]] }
 };
 var st = { ad: 1, cr: 0, tipo: null, treino: null, modo: null }, step = 1;
 
@@ -189,7 +190,7 @@ function result(){
   if (!tier){
     tier = p.tiers[p.tiers.length - 1];
     extra = mes - tier[0];
-    if (extra > tier[0] * 0.25) personal = true;
+    if (extra > 20) personal = true;
   }
   var porSemana = (tier[0] / 4).toString().replace(".", ",");
   var porPeca = tier[1] / tier[0];
