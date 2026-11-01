@@ -11,3 +11,4 @@
 - Preços oficiais: ver as páginas clean-roupa-de-cama, lavanderia-clean-planos, clean-roupas-sociais (asrgv14.chatgpt.site) e lavanderiacleangv.com. WhatsApp (33) 98761-0434.
 - WhatsApp: pessoa física → (33) 98761-0434. Empresas, Airbnb, restaurantes, salões e uniformes → (33) 98749-0985.
 - Stories: metade com preço (dias alternados), sempre de um serviço diferente do post do feed do mesmo dia.
+- Horário: segunda a sexta 7h às 17h (sem parada), sábado 7h às 11h, domingo fechado. Feriados de seg a sáb: horário normal do dia.
