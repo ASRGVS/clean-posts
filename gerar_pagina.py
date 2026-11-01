@@ -15,7 +15,10 @@ def hora(h):
 def item(it):
     st = f'<span class="ok">{it["status"]}</span>' if it.get('status') else ''
     pr = f'<div class="pr">⚠ {html.escape(it["precisa"])}</div>' if it.get('precisa') else ''
-    return f'<div class="it"><div class="meta"><b>{hora(it["hora"])}</b> · {it["formato"]}</div><div class="tm">{html.escape(it["tema"])} {st}</div>{pr}</div>'
+    f0 = it['formato'].split(' ·')[0]
+    cls = {'Edredom': 'ed', 'Plano mensal': 'pl', 'Pacote avulso': 'pa'}.get(f0, '')
+    badge = f'<span class="lb {cls}">{f0}</span>' if cls else ''
+    return f'<div class="it"><div class="meta"><b>{hora(it["hora"])}</b> · {badge if cls else it["formato"]}{(' · ' + it['formato'].split(' · ',1)[1]) if cls and ' · ' in it['formato'] else ''}</div><div class="tm">{html.escape(it["tema"])} {st}</div>{pr}</div>'
 datas = sorted({x['data'] for x in cal})
 rows = ''; cur = 0
 for d in datas:
@@ -29,6 +32,7 @@ for d in datas:
     stories = ''.join(item(x) for x in cal if x['data'] == d and x['tipo'] == 'story')
     rows += f'<tr><td class="dt"><b>{dt.day:02d}/11</b><br><span>{dias[dt.weekday()]}</span>{"<div class=fer>" + f + "</div>" if f else ""}</td><td>{posts}</td><td class="sto">{stories}</td></tr>'
 pend = sorted({x['precisa'] for x in cal if x.get('precisa')})
+ned = len([x for x in cal if x['tipo']=='post' and x['formato'].startswith('Edredom')]); npl = len([x for x in cal if x['tipo']=='post' and x['formato'].startswith('Plano')]); npa = len([x for x in cal if x['tipo']=='post' and x['formato'].startswith('Pacote')])
 np = len([x for x in cal if x['tipo'] == 'post']); ns = len([x for x in cal if x['tipo'] == 'story'])
 page = f'''<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Calendário de posts · Novembro 2026 · Clean</title>
@@ -50,6 +54,7 @@ tr.fase td{{background:#e3f4fd;color:#0f62ac;font-size:14px}}
 .it+.it{{margin-top:12px;padding-top:12px;border-top:1px dashed #d5e4ef}}
 .meta{{font-size:13px;color:#4a6078}}.meta b{{color:#0f62ac}}.tm{{font-weight:600;margin-top:2px}}
 .pr{{color:#c05a10;font-size:13px;margin-top:4px}}
+.lb{{font-size:11px;font-weight:700;color:#fff;padding:2px 8px;border-radius:10px;margin-left:4px}}.ed{{background:#f58634}}.pl{{background:#0f62ac}}.pa{{background:#00afef}}
 .ok{{background:#25a35a;color:#fff;font-size:11px;padding:2px 8px;border-radius:10px;margin-left:6px}}
 h2{{font-size:20px;margin:36px 0 10px}}ul{{background:#fff;border-radius:16px;padding:18px 18px 18px 38px;margin:0}}li{{margin:6px 0}}
 @media(max-width:640px){{td{{font-size:13px;padding:10px 8px}}th{{font-size:12px;padding:10px 8px}}.dt{{width:56px}}}}
@@ -58,14 +63,14 @@ h2{{font-size:20px;margin:36px 0 10px}}ul{{background:#fff;border-radius:16px;pa
 <div class="cards">
 <div class="card"><b>{np}</b><span>posts no feed</span></div>
 <div class="card"><b>{ns}</b><span>stories, um por dia, sempre com tema diferente do feed</span></div>
-<div class="card"><b>12h × 19h × 8h</b><span>horários testados nas 3 primeiras semanas</span></div>
+<div class="card"><b>{ned} · {npl} · {npa}</b><span>posts de edredom · planos mensais · pacotes avulsos</span></div>
 <div class="card"><b>2/11 e 20/11</b><span>posts avisando que abrimos no feriado</span></div>
 </div>
 <table><tr><th>Dia</th><th>Feed</th><th class="sto">Stories</th></tr>{rows}</table>
 <h2>Regras fixas</h2><ul>
 <li>A Clean é especializada em roupas: nada de tapetes, cortinas ou estofados.</li>
 <li>Todo feriado de segunda a sábado tem um post leve avisando que estamos funcionando para ajudar as famílias na rotina. Domingo é fechado.</li>
-<li>Story e feed do mesmo dia nunca repetem o assunto.</li></ul>
+<li>Story e feed do mesmo dia nunca repetem o assunto.</li><li>Prioridade de captação: higienização de edredom, pacotes Limpo + Dobrado e planos mensais (um post para cada plano). Feed testa 12h × 19h × 8h nas 3 primeiras semanas.</li></ul>
 <h2>O que preciso de você ao longo do mês</h2><ul>{''.join(f'<li>{html.escape(p)}</li>' for p in pend)}</ul>
 <h2>Como vamos medir</h2><ul><li>Para cada post, comparo o alcance, os salvamentos e os compartilhamentos nas primeiras 24h.</li><li>No dia 22 escolho o horário vencedor e uso nele a semana da Black Friday.</li><li>Responder os comentários na primeira hora ajuda o post a chegar em mais gente.</li></ul>
 </div></body></html>'''

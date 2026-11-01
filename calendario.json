@@ -52,8 +52,8 @@
  {
   "data": "2026-11-03",
   "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Planos mensais: roupa pronta toda semana a partir de R$ 219,90",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Dobrado 80 peças (20 por semana): R$ 219,90/mês",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -82,7 +82,7 @@
  {
   "data": "2026-11-04",
   "hora": "19:00",
-  "formato": "Antes e depois",
+  "formato": "Edredom · antes e depois",
   "tema": "Edredom encardido x higienizado na Clean",
   "objetivo": "Alcance",
   "status": "",
@@ -102,8 +102,8 @@
  {
   "data": "2026-11-05",
   "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Dobrado 100 peças (25 por semana): R$ 249,90/mês · o mais escolhido",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -112,9 +112,9 @@
  {
   "data": "2026-11-05",
   "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Quanto tempo você gasta com roupa por semana? A conta assusta",
-  "objetivo": "Compartilhamentos",
+  "formato": "Post único",
+  "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
+  "objetivo": "Contato B2B",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -132,11 +132,11 @@
  {
   "data": "2026-11-06",
   "hora": "19:00",
-  "formato": "Bastidores",
-  "tema": "Sua roupa nunca se mistura: como separamos cada cliente",
-  "objetivo": "Confiança",
+  "formato": "Edredom · preços",
+  "tema": "Higienização de edredom: Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Foto ou vídeo curto da separação por cliente",
+  "precisa": "",
   "tipo": "post"
  },
  {
@@ -152,8 +152,8 @@
  {
   "data": "2026-11-07",
   "hora": "10:00",
-  "formato": "Post único",
-  "tema": "Fim de semana livre: pacote de 20 peças por R$ 69,90",
+  "formato": "Pacote avulso",
+  "tema": "Limpo + Dobrado 20 peças por R$ 69,90, sem mensalidade",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -192,9 +192,9 @@
  {
   "data": "2026-11-09",
   "hora": "12:00",
-  "formato": "Carrossel",
-  "tema": "Camisa branca amarelada no sovaco: o que fazer e o que evitar",
-  "objetivo": "Salvamentos",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Dobrado 120 peças (30 por semana): R$ 289,90/mês",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -212,8 +212,8 @@
  {
   "data": "2026-11-10",
   "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Pacote de camisas sociais: 5 por R$ 69,90, entregues no cabide",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Passado 80 peças (20 por semana): R$ 319,90/mês",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -242,9 +242,9 @@
  {
   "data": "2026-11-11",
   "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Salões e clínicas: toalhas, jalecos e roupões com faturamento mensal",
-  "objetivo": "Contato B2B",
+  "formato": "Edredom · desconto",
+  "tema": "Mande 2 edredons e ganhe 5% de desconto; 3 ou mais, 10%",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -262,9 +262,9 @@
  {
   "data": "2026-11-12",
   "hora": "12:00",
-  "formato": "Carrossel",
-  "tema": "Vestido de festa: como guardar depois do evento",
-  "objetivo": "Salvamentos",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Passado 100 peças (25 por semana): R$ 379,90/mês · o mais escolhido",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -273,7 +273,7 @@
   "data": "2026-11-12",
   "hora": "19:00",
   "formato": "Post único",
-  "tema": "Formaturas e casamentos: terno lavado e passado a partir de R$ 70",
+  "tema": "Formaturas e casamentos: terno R$ 70 · terno completo R$ 80, no cabide",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -292,11 +292,11 @@
  {
   "data": "2026-11-13",
   "hora": "12:00",
-  "formato": "Bastidores",
-  "tema": "Quem cuida da sua roupa: apresente a equipe",
-  "objetivo": "Confiança",
+  "formato": "Pacote avulso",
+  "tema": "Limpo + Dobrado 30 peças por R$ 89,90 · o mais escolhido",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Foto da equipe (com autorização de cada um)",
+  "precisa": "",
   "tipo": "post"
  },
  {
@@ -312,8 +312,8 @@
  {
   "data": "2026-11-14",
   "hora": "10:00",
-  "formato": "Post único",
-  "tema": "Verão chegando: higienize edredons e cobertores antes de guardar",
+  "formato": "Edredom · preços",
+  "tema": "Verão chegando: higienize antes de guardar. Mantas, colchas e cobertores de R$ 40 a R$ 70",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -333,7 +333,7 @@
   "data": "2026-11-15",
   "hora": "19:00",
   "formato": "Post interativo",
-  "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários e no story)",
+  "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários)",
   "objetivo": "Comentários",
   "status": "",
   "precisa": "",
@@ -352,8 +352,8 @@
  {
   "data": "2026-11-16",
   "hora": "08:00",
-  "formato": "Post único",
-  "tema": "Comece a semana sem pilha: plano Limpo + Dobrado",
+  "formato": "Plano mensal",
+  "tema": "Mensal Limpo + Passado 120 peças (30 por semana): R$ 439,90/mês",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
@@ -372,9 +372,9 @@
  {
   "data": "2026-11-17",
   "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "5 erros na máquina de lavar que estragam a roupa",
-  "objetivo": "Salvamentos",
+  "formato": "Plano mensal",
+  "tema": "Passadoria 60 peças (15 por semana): R$ 199,90/mês · você lava, a Clean passa",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -392,11 +392,11 @@
  {
   "data": "2026-11-18",
   "hora": "08:00",
-  "formato": "Antes e depois",
-  "tema": "Uniforme com mancha de gordura: antes e depois",
-  "objetivo": "Alcance",
+  "formato": "Edredom",
+  "tema": "Ácaros e noite mal dormida: edredom higienizado a partir de R$ 50",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Fotos de antes e depois de um uniforme",
+  "precisa": "",
   "tipo": "post"
  },
  {
@@ -412,9 +412,9 @@
  {
   "data": "2026-11-19",
   "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Uniforme da empresa: por que lavar fora sai mais barato",
-  "objetivo": "Contato B2B",
+  "formato": "Pacote avulso",
+  "tema": "Limpo + Dobrado 40 peças por R$ 109,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -434,7 +434,7 @@
   "hora": "08:00",
   "formato": "Post único · feriado",
   "tema": "Feriado de Consciência Negra: estamos funcionando para ajudar sua família na rotina",
-  "objetivo": "WhatsApp",
+  "objetivo": "Aviso",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -452,11 +452,11 @@
  {
   "data": "2026-11-21",
   "hora": "10:00",
-  "formato": "Depoimento",
-  "tema": "O que os clientes dizem (avaliação real do Google)",
-  "objetivo": "Confiança",
+  "formato": "Plano mensal",
+  "tema": "Passadoria 70 peças: R$ 219,90/mês · o mais escolhido",
+  "objetivo": "WhatsApp",
   "status": "",
-  "precisa": "Escolher 1 avaliação real do Google",
+  "precisa": "",
   "tipo": "post"
  },
  {
@@ -473,7 +473,7 @@
   "data": "2026-11-22",
   "hora": "19:00",
   "formato": "Post único",
-  "tema": "Vem aí a Black Friday Clean (aviso, ative o lembrete)",
+  "tema": "Vem aí a Black Friday Clean (aviso)",
   "objetivo": "Expectativa",
   "status": "",
   "precisa": "Definir a oferta de Black Friday",
@@ -492,9 +492,9 @@
  {
   "data": "2026-11-23",
   "hora": "melhor",
-  "formato": "Carrossel",
-  "tema": "Ácaros no travesseiro: quando lavar e quando trocar",
-  "objetivo": "Salvamentos",
+  "formato": "Plano mensal",
+  "tema": "Passadoria 80 peças (20 por semana): R$ 239,90/mês",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -532,9 +532,9 @@
  {
   "data": "2026-11-25",
   "hora": "melhor",
-  "formato": "Carrossel",
-  "tema": "Casa pronta para as visitas de fim de ano: checklist do enxoval",
-  "objetivo": "Salvamentos",
+  "formato": "Edredom · preços",
+  "tema": "Visitas de fim de ano: edredons a partir de R$ 50 e pillow top a partir de R$ 100",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -552,9 +552,9 @@
  {
   "data": "2026-11-26",
   "hora": "melhor",
-  "formato": "Post único",
-  "tema": "Réveillon e férias: enxoval de temporada para Airbnb e pousadas",
-  "objetivo": "Contato B2B",
+  "formato": "Pacote avulso",
+  "tema": "Limpo + Passado: 20 peças R$ 109,90 · 30 peças R$ 144,90 · 40 peças R$ 169,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -592,11 +592,11 @@
  {
   "data": "2026-11-28",
   "hora": "10:00",
-  "formato": "Antes e depois",
-  "tema": "Roupa branca recuperada",
+  "formato": "Edredom · antes e depois",
+  "tema": "Mais um edredom renovado na Clean",
   "objetivo": "Alcance",
   "status": "",
-  "precisa": "Fotos de antes e depois",
+  "precisa": "Fotos de antes e depois de outro edredom",
   "tipo": "post"
  },
  {
@@ -612,9 +612,9 @@
  {
   "data": "2026-11-29",
   "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Roupa branca encardida: 3 truques que funcionam",
-  "objetivo": "Salvamentos",
+  "formato": "Pacote avulso",
+  "tema": "Camisas sociais no cabide: 5 por R$ 69,90 · 10 por R$ 134,90 · 15 por R$ 194,90",
+  "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
   "tipo": "post"
@@ -632,8 +632,8 @@
  {
   "data": "2026-11-30",
   "hora": "melhor",
-  "formato": "Post único",
-  "tema": "Dezembro sem pilha de roupa: garanta seu plano mensal",
+  "formato": "Plano mensal",
+  "tema": "Dezembro sem pilha de roupa: todos os planos mensais num só post",
   "objetivo": "WhatsApp",
   "status": "",
   "precisa": "",
