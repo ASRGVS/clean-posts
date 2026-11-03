@@ -42,3 +42,7 @@
 - Avisar o dono para conferir acentos e preços na imagem gerada; se vier errado, ele pode gerar só a foto e o Claude descreve a correção.
 - Não prometer nada que a Clean não faz (ex.: capa protetora só se o dono confirmar).
 - Imagens recebidas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
+
+## Prazos (confirmado pelo dono em 03/11/2026)
+- Pacote avulso Limpo e Dobrado: fica PRONTO no mesmo dia. A entrega depende da próxima rota, ou o cliente pode retirar na Clean no mesmo dia. Nunca escrever "entrega em 24h" nem "entrega no mesmo dia".
+- Prazo médio geral de entrega dos demais serviços: 2 a 3 dias.
