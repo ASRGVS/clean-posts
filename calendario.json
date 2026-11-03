@@ -102,11 +102,11 @@
  {
   "data": "2026-11-04",
   "hora": "19:00",
-  "formato": "Edredom · antes e depois",
-  "tema": "Edredom encardido x higienizado na Clean",
-  "objetivo": "Alcance",
-  "status": "",
-  "precisa": "Fotos de antes e depois de um edredom",
+  "formato": "Edredom · preços (arte BestContent)",
+  "tema": "Casa pronta para as visitas de fim de ano: edredom limpinho, fofo e cheiroso — Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
+  "objetivo": "WhatsApp",
+  "status": "Arte pronta (BestContent, aprovada 03/11)",
+  "precisa": "Imagem pronta: posts/2026-11-04/feed1.jpg",
   "tipo": "post"
  },
  {
@@ -162,21 +162,21 @@
  {
   "data": "2026-11-05",
   "hora": "09:00",
-  "formato": "Story",
-  "tema": "Coleta e entrega grátis em toda Governador Valadares",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
+  "formato": "Story · preço (arte BestContent)",
+  "tema": "Formaturas, casamentos e festas: terno e vestido impecáveis — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350",
+  "objetivo": "WhatsApp",
+  "status": "Arte pronta (BestContent, aprovada 03/11)",
+  "precisa": "Imagem pronta: posts/2026-11-05/story.jpg",
   "tipo": "story"
  },
  {
   "data": "2026-11-06",
   "hora": "19:00",
-  "formato": "Edredom · preços",
-  "tema": "Higienização de edredom: Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80",
+  "formato": "Post único · ternos e vestidos (arte BestContent)",
+  "tema": "Formaturas, casamentos e festas: seu terno e seu vestido impecáveis para o grande dia — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350 · higienizados, passados e entregues no cabide",
   "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
+  "status": "Arte pronta (BestContent, aprovada 03/11)",
+  "precisa": "Imagem pronta: posts/2026-11-06/feed1.jpg",
   "tipo": "post"
  },
  {
@@ -222,11 +222,11 @@
  {
   "data": "2026-11-07",
   "hora": "19:00",
-  "formato": "Story",
-  "tema": "Horário de funcionamento: segunda a sábado, inclusive feriados",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
+  "formato": "Story · preço (arte BestContent)",
+  "tema": "Casa pronta para as visitas de fim de ano: edredom Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
+  "objetivo": "WhatsApp",
+  "status": "Arte pronta (BestContent, aprovada 03/11)",
+  "precisa": "Imagem pronta: posts/2026-11-07/story.jpg",
   "tipo": "story"
  },
  {
@@ -936,6 +936,36 @@
   "tema": "Edredom limpinho para o Natal: casal R$ 60, 3 ou mais com 10% off",
   "objetivo": "WhatsApp",
   "status": "",
+  "precisa": "",
+  "tipo": "story"
+ },
+ {
+  "data": "pendente",
+  "hora": "19:00",
+  "formato": "Edredom · antes e depois",
+  "tema": "Edredom encardido x higienizado na Clean",
+  "objetivo": "Alcance",
+  "status": "Reagendar — saiu de 2026-11-04 19:00 em 03/11 para entrar arte BestContent",
+  "precisa": "Fotos de antes e depois de um edredom",
+  "tipo": "post"
+ },
+ {
+  "data": "pendente",
+  "hora": "09:00",
+  "formato": "Story",
+  "tema": "Coleta e entrega grátis em toda Governador Valadares",
+  "objetivo": "Lembrete",
+  "status": "Reagendar — saiu de 2026-11-05 09:00 em 03/11 para entrar arte BestContent",
+  "precisa": "",
+  "tipo": "story"
+ },
+ {
+  "data": "pendente",
+  "hora": "19:00",
+  "formato": "Story",
+  "tema": "Horário de funcionamento: segunda a sábado, inclusive feriados",
+  "objetivo": "Lembrete",
+  "status": "Reagendar — saiu de 2026-11-07 19:00 em 03/11 para entrar arte BestContent",
   "precisa": "",
   "tipo": "story"
  }

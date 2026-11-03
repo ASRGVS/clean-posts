@@ -28,10 +28,17 @@
 ## Facebook (aquecimento da Página)
 - Todo post do feed do Instagram também sai na Página do Facebook (mesmo horário).
 - Além disso, 1 post por dia SÓ no Facebook (itens com "tipo": "facebook" no calendario.json), em horário diferente do feed. Rodízio: seg edredom com preço; ter pacote Limpo + Dobrado; qua plano mensal da semana; qui pergunta para a comunidade de GV; sex empresas (WhatsApp 98749-0985); sáb como funciona; dom dica para salvar. Nunca repetir o tema nem a arte do feed ou do story do mesmo dia; variar o ângulo semana a semana.
-- Estilo da arte: cards como posts/2026-11-01/facebook/fb01–fb12 (1080x1350), legenda curta terminando com o link do WhatsApp.
+- Arte: imagem gerada pelo dono no BestContent a partir do prompt do Claude (ver seção "Imagens"), 1080x1350; legenda curta terminando com o link do WhatsApp.
 - Posts de pergunta: o objetivo é comentário. Responder os comentários no mesmo dia.
 - Stories: a API não publica story no Facebook; eles chegam à Página pelo compartilhamento automático de stories do Instagram (configurado no app).
 
 ## Imagem da peça nos posts de serviço
 - Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
-- Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png; modelo de arte com foto: posts/2026-11-01/facebook/fb01-v3.jpg). Sem foto da peça: pedir ao dono (ele gera no ChatGPT com a logo) antes de publicar.
+- Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png).
+
+## Imagens: o dono gera tudo no BestContent (desde 03/11/2026)
+- O Claude NÃO gera mais imagens (nada de Playwright/HTML para artes). Para cada post do feed, post exclusivo do Facebook e story, o Claude escreve um PROMPT de imagem e pede ao dono; ele gera no BestContent e devolve a imagem. Não se pede aprovação de arte: a imagem que o dono devolve já é a aprovada.
+- Modelo dos prompts (o dono aprovou este estilo; referências: posts/2026-11-04/feed1.jpg, posts/2026-11-06/feed1.jpg, posts/2026-11-05/story.jpg, posts/2026-11-07/story.jpg): "Fotografia publicitária realista", formato e tamanho exatos (feed 4:5 1080x1350; story 9:16 1080x1920 com 250 px livres no topo e 300 px livres embaixo), pessoas brasileiras reais em casa iluminada, peça embalada com etiqueta discreta "Clean", luz natural suave, tons creme/branco/azul-claro (rosé para vestidos), espaço livre para texto; tipografia delicada (título em serifa fina, resto sans-serif leve); todos os textos da arte em português escritos entre aspas, exatamente como devem sair (preços, condições, "Coleta e entrega grátis em Governador Valadares", botão azul-marinho "Chame no WhatsApp"); logo "Clean" pequena no canto superior esquerdo, nunca centralizada; paleta #1E3554, #5C86AE, #F6F3EE (rosé #EBD3CF). Um prompt completo e independente por imagem, em bloco de código.
+- Avisar o dono para conferir acentos e preços na imagem gerada; se vier errado, ele pode gerar só a foto e o Claude descreve a correção.
+- Não prometer nada que a Clean não faz (ex.: capa protetora só se o dono confirmar).
+- Imagens recebidas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
