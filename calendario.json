@@ -1,972 +1,972 @@
 [
- {
-  "data": "2026-11-01",
-  "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Roupa com cheiro de guardado na chuva: 3 cuidados",
-  "objetivo": "Salvamentos",
-  "status": "Aprovado",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-01",
-  "hora": "12:00",
-  "formato": "Story",
-  "tema": "Como funciona a Clean em 3 passos: coleta, cuidado e entrega",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-02",
-  "hora": "08:00",
-  "formato": "Post único · feriado",
-  "tema": "Feriado de Finados: estamos funcionando para ajudar sua família na rotina",
-  "objetivo": "Aviso",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-02",
-  "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Guia rápido: o que significam os símbolos da etiqueta",
-  "objetivo": "Salvamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-02",
-  "hora": "12:00",
-  "formato": "Card de serviço · Edredom",
-  "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-02",
-  "hora": "12:00",
-  "formato": "Story · preço",
-  "tema": "Camisa social lavada e passada por R$ 15, no cabide (troca: o post exclusivo do Facebook do dia já é edredom)",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-03",
-  "hora": "12:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Dobrado 80 peças (20 por semana): R$ 219,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-03",
-  "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Por que a toalha fica áspera (e como deixar macia de novo)",
-  "objetivo": "Salvamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-03",
-  "hora": "10:00",
-  "formato": "Card de serviço · Pacote",
-  "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-03",
-  "hora": "09:00",
-  "formato": "Story",
-  "tema": "Você sabia? Usamos amaciante Downy Lírios ou Brisa",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-04",
-  "hora": "19:00",
-  "formato": "Edredom · preços (arte BestContent)",
-  "tema": "Casa pronta para as visitas de fim de ano: edredom limpinho, fofo e cheiroso — Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, aprovada 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-04/feed1.jpg",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-04",
-  "hora": "12:00",
-  "formato": "Card de serviço · Plano mensal",
-  "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-04/fb-extra.jpg",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-04",
-  "hora": "12:00",
-  "formato": "Story · preço",
-  "tema": "Pacote Limpo + Dobrado 20 peças por R$ 69,90 · fica pronto no mesmo dia (entrega na próxima rota ou retirada na Clean no mesmo dia)",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-04/story.jpg",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-05",
-  "hora": "12:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Dobrado 100 peças (25 por semana): R$ 249,90/mês · o mais escolhido",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, 04/11)",
-  "precisa": "Imagem pronta: posts/2026-11-05/feed1.jpg",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-05",
-  "hora": "19:00",
-  "formato": "Post único · PJ",
-  "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
-  "objetivo": "Contato B2B",
-  "status": "Arte pronta (BestContent, 04/11)",
-  "precisa": "Imagem pronta: posts/2026-11-05/feed2.jpg",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-05",
-  "hora": "10:00",
-  "formato": "Pergunta · engajamento",
-  "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
-  "objetivo": "Comentários",
-  "status": "Arte pronta (BestContent, 04/11)",
-  "precisa": "Imagem pronta: posts/2026-11-05/fb-extra.jpg",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-05",
-  "hora": "09:00",
-  "formato": "Story · preço (arte BestContent)",
-  "tema": "Formaturas, casamentos e festas: terno e vestido impecáveis — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, aprovada 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-05/story.jpg",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-06",
-  "hora": "19:00",
-  "formato": "Post único · ternos e vestidos (arte BestContent)",
-  "tema": "Formaturas, casamentos e festas: seu terno e seu vestido impecáveis para o grande dia — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350 · higienizados, passados e entregues no cabide",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, aprovada 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-06/feed1.jpg",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-06",
-  "hora": "12:00",
-  "formato": "Card de serviço · PJ",
-  "tema": "Para empresas em GV: Airbnb, restaurantes, salões e uniformes com coleta programada (WhatsApp empresas)",
-  "objetivo": "WhatsApp PJ",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-06",
-  "hora": "12:00",
-  "formato": "Story · preço",
-  "tema": "Plano mensal Limpo + Dobrado 100 peças: R$ 249,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-07",
-  "hora": "10:00",
-  "formato": "Pacote avulso",
-  "tema": "Limpo + Dobrado 20 peças por R$ 69,90, sem mensalidade",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-07",
-  "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-07",
-  "hora": "19:00",
-  "formato": "Story · preço (arte BestContent)",
-  "tema": "Casa pronta para as visitas de fim de ano: edredom Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
-  "objetivo": "WhatsApp",
-  "status": "Arte pronta (BestContent, aprovada 03/11)",
-  "precisa": "Imagem pronta: posts/2026-11-07/story.jpg",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-08",
-  "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "De quanto em quanto tempo lavar lençol, fronha, toalha e edredom",
-  "objetivo": "Salvamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-08",
-  "hora": "12:00",
-  "formato": "Dica · salvar",
-  "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
-  "objetivo": "Compartilhamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-08",
-  "hora": "12:00",
-  "formato": "Story · preço",
-  "tema": "Plano de Passadoria 60 peças: R$ 199,90/mês · você lava, a Clean passa",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-09",
-  "hora": "12:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Dobrado 120 peças (30 por semana): R$ 289,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-09",
-  "hora": "19:00",
-  "formato": "Card de serviço · Edredom",
-  "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-09",
-  "hora": "19:00",
-  "formato": "Story",
-  "tema": "Enquete: você prefere roupa dobrada ou passada?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-10",
-  "hora": "12:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Passado 80 peças (20 por semana): R$ 319,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-10",
-  "hora": "19:00",
-  "formato": "Carrossel",
-  "tema": "Calor em GV: roupa de academia com cheiro mesmo depois de lavar",
-  "objetivo": "Salvamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-10",
-  "hora": "10:00",
-  "formato": "Card de serviço · Pacote",
-  "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-10",
-  "hora": "09:00",
-  "formato": "Story · preço",
-  "tema": "Camisa social lavada e passada no cabide por R$ 15",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-11",
-  "hora": "12:00",
-  "formato": "Edredom · desconto",
-  "tema": "Mande 2 edredons e ganhe 5% de desconto; 3 ou mais, 10%",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-11",
-  "hora": "19:00",
-  "formato": "Card de serviço · Plano mensal",
-  "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-11",
-  "hora": "19:00",
-  "formato": "Story",
-  "tema": "Dica: jeans dura mais lavado do avesso e em água fria",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-12",
-  "hora": "12:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Passado 100 peças (25 por semana): R$ 379,90/mês · o mais escolhido",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-12",
-  "hora": "19:00",
-  "formato": "Post único",
-  "tema": "Formaturas e casamentos: terno R$ 70 · terno completo R$ 80, no cabide",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-12",
-  "hora": "10:00",
-  "formato": "Pergunta · engajamento",
-  "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
-  "objetivo": "Comentários",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-12",
-  "hora": "09:00",
-  "formato": "Story · preço",
-  "tema": "Pacote Limpo + Dobrado 30 peças por R$ 89,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-13",
-  "hora": "12:00",
-  "formato": "Pacote avulso",
-  "tema": "Limpo + Dobrado 30 peças por R$ 89,90 · o mais escolhido",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-13",
-  "hora": "19:00",
-  "formato": "Card de serviço · PJ",
-  "tema": "Para empresas em GV: Airbnb, restaurantes, salões e uniformes com coleta programada (WhatsApp empresas)",
-  "objetivo": "WhatsApp PJ",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-13",
-  "hora": "19:00",
-  "formato": "Story",
-  "tema": "Verdadeiro ou falso: água quente tira qualquer mancha?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-14",
-  "hora": "10:00",
-  "formato": "Edredom · preços",
-  "tema": "Verão chegando: higienize antes de guardar. Mantas, colchas e cobertores de R$ 40 a R$ 70",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-14",
-  "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-14",
-  "hora": "19:00",
-  "formato": "Story · preço",
-  "tema": "Plano de Passadoria 70 peças: R$ 219,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-15",
-  "hora": "19:00",
-  "formato": "Post interativo",
-  "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários)",
-  "objetivo": "Comentários",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-15",
-  "hora": "12:00",
-  "formato": "Dica · salvar",
-  "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
-  "objetivo": "Compartilhamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-15",
-  "hora": "12:00",
-  "formato": "Story",
-  "tema": "Enquete: quantas peças sua casa lava por semana?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-16",
-  "hora": "08:00",
-  "formato": "Plano mensal",
-  "tema": "Mensal Limpo + Passado 120 peças (30 por semana): R$ 439,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-16",
-  "hora": "12:00",
-  "formato": "Card de serviço · Edredom",
-  "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-16",
-  "hora": "19:00",
-  "formato": "Story · preço",
-  "tema": "Edredom solteiro por R$ 50: o quarto das crianças também merece",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-17",
-  "hora": "19:00",
-  "formato": "Plano mensal",
-  "tema": "Passadoria 60 peças (15 por semana): R$ 199,90/mês · você lava, a Clean passa",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-17",
-  "hora": "12:00",
-  "formato": "Card de serviço · Pacote",
-  "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-17",
-  "hora": "12:00",
-  "formato": "Story",
-  "tema": "Diferencial: sua roupa é lavada separada, nunca misturada",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-18",
-  "hora": "08:00",
-  "formato": "Edredom",
-  "tema": "Ácaros e noite mal dormida: edredom higienizado a partir de R$ 50",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-18",
-  "hora": "12:00",
-  "formato": "Card de serviço · Plano mensal",
-  "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-18",
-  "hora": "19:00",
-  "formato": "Story · preço",
-  "tema": "Pacote Limpo + Passado 30 peças por R$ 144,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-19",
-  "hora": "19:00",
-  "formato": "Pacote avulso",
-  "tema": "Limpo + Dobrado 40 peças por R$ 109,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-19",
-  "hora": "12:00",
-  "formato": "Pergunta · engajamento",
-  "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
-  "objetivo": "Comentários",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-19",
-  "hora": "12:00",
-  "formato": "Story",
-  "tema": "Quiz: o que significa o triângulo na etiqueta?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-20",
-  "hora": "08:00",
-  "formato": "Post único · feriado",
-  "tema": "Feriado de Consciência Negra: estamos funcionando para ajudar sua família na rotina",
-  "objetivo": "Aviso",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-20",
-  "hora": "12:00",
-  "formato": "Post único · feriado",
-  "tema": "Consciência Negra: estamos abertos e com coleta normal (versão Facebook do aviso)",
-  "objetivo": "Aviso",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-20",
-  "hora": "19:00",
-  "formato": "Story · preço",
-  "tema": "3 edredons ou mais: 10% de desconto",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-21",
-  "hora": "10:00",
-  "formato": "Plano mensal",
-  "tema": "Passadoria 70 peças: R$ 219,90/mês · o mais escolhido",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-21",
-  "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-21",
-  "hora": "19:00",
-  "formato": "Story",
-  "tema": "Contagem regressiva: Black Friday Clean vem aí",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-22",
-  "hora": "19:00",
-  "formato": "Post único",
-  "tema": "Vem aí a Black Friday Clean (aviso)",
-  "objetivo": "Expectativa",
-  "status": "",
-  "precisa": "Definir a oferta de Black Friday",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-22",
-  "hora": "12:00",
-  "formato": "Dica · salvar",
-  "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
-  "objetivo": "Compartilhamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-22",
-  "hora": "12:00",
-  "formato": "Story · preço",
-  "tema": "Festas de fim de ano: vestido de festa a partir de R$ 80",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-23",
-  "hora": "melhor",
-  "formato": "Plano mensal",
-  "tema": "Família grande? Plano mensal de até 240 peças por mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-23",
-  "hora": "oposto",
-  "formato": "Card de serviço · Edredom",
-  "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-23",
-  "hora": "oposto",
-  "formato": "Story",
-  "tema": "Enquete: qual peça você mais gostaria de mandar para a lavanderia?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "Adicionar o adesivo no app antes de publicar",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-24",
-  "hora": "melhor",
-  "formato": "Post único",
-  "tema": "Black Friday Clean: a oferta",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "Oferta definida",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-24",
-  "hora": "oposto",
-  "formato": "Card de serviço · Pacote",
-  "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-24",
-  "hora": "oposto",
-  "formato": "Story · preço",
-  "tema": "Plano mensal Limpo + Dobrado 80 peças: R$ 219,90/mês",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-25",
-  "hora": "melhor",
-  "formato": "Edredom · preços",
-  "tema": "Visitas de fim de ano: edredons a partir de R$ 50 e pillow top a partir de R$ 100",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-25",
-  "hora": "oposto",
-  "formato": "Card de serviço · Plano mensal",
-  "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-25",
-  "hora": "oposto",
-  "formato": "Story",
-  "tema": "Verdadeiro ou falso: amaciante demais deixa a toalha menos absorvente?",
-  "objetivo": "Interação",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-26",
-  "hora": "melhor",
-  "formato": "Pacote avulso",
-  "tema": "Limpo + Passado: 20 peças R$ 109,90 · 30 peças R$ 144,90 · 40 peças R$ 169,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-26",
-  "hora": "oposto",
-  "formato": "Pergunta · engajamento",
-  "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
-  "objetivo": "Comentários",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-26",
-  "hora": "oposto",
-  "formato": "Story · preço",
-  "tema": "Mantas, colchas e cobertores a partir de R$ 40",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-27",
-  "hora": "melhor",
-  "formato": "Post único",
-  "tema": "É hoje: Black Friday Clean",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "Oferta definida",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-27",
-  "hora": "oposto",
-  "formato": "Card de serviço · Black Friday",
-  "tema": "Black Friday Clean: oferta do dia em destaque para quem ainda não conhece a Clean",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-27",
-  "hora": "oposto",
-  "formato": "Story",
-  "tema": "O que os clientes dizem (outra avaliação real do Google)",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "Escolher outra avaliação real do Google",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-28",
-  "hora": "10:00",
-  "formato": "Edredom · antes e depois",
-  "tema": "Mais um edredom renovado na Clean",
-  "objetivo": "Alcance",
-  "status": "",
-  "precisa": "Fotos de antes e depois de outro edredom",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-28",
-  "hora": "12:00",
-  "formato": "Post único",
-  "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-28",
-  "hora": "19:00",
-  "formato": "Story · preço",
-  "tema": "Pacote de 10 camisas sociais por R$ 134,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-29",
-  "hora": "19:00",
-  "formato": "Pacote avulso",
-  "tema": "Camisas sociais no cabide: 5 por R$ 69,90 · 10 por R$ 134,90 · 15 por R$ 194,90",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-29",
-  "hora": "12:00",
-  "formato": "Dica · salvar",
-  "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
-  "objetivo": "Compartilhamentos",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-29",
-  "hora": "12:00",
-  "formato": "Story",
-  "tema": "Dica: 3 cuidados para a roupa preta não desbotar",
-  "objetivo": "Lembrete",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "2026-11-30",
-  "hora": "melhor",
-  "formato": "Plano mensal",
-  "tema": "Dezembro sem pilha de roupa: planos de 80 a 240 peças, do solteiro à família grande",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "post"
- },
- {
-  "data": "2026-11-30",
-  "hora": "oposto",
-  "formato": "Card de serviço · Edredom",
-  "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "facebook"
- },
- {
-  "data": "2026-11-30",
-  "hora": "oposto",
-  "formato": "Story · preço",
-  "tema": "Edredom limpinho para o Natal: casal R$ 60, 3 ou mais com 10% off",
-  "objetivo": "WhatsApp",
-  "status": "",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "pendente",
-  "hora": "19:00",
-  "formato": "Edredom · antes e depois",
-  "tema": "Edredom encardido x higienizado na Clean",
-  "objetivo": "Alcance",
-  "status": "Reagendar — saiu de 2026-11-04 19:00 em 03/11 para entrar arte BestContent",
-  "precisa": "Fotos de antes e depois de um edredom",
-  "tipo": "post"
- },
- {
-  "data": "pendente",
-  "hora": "09:00",
-  "formato": "Story",
-  "tema": "Coleta e entrega grátis em toda Governador Valadares",
-  "objetivo": "Lembrete",
-  "status": "Reagendar — saiu de 2026-11-05 09:00 em 03/11 para entrar arte BestContent",
-  "precisa": "",
-  "tipo": "story"
- },
- {
-  "data": "pendente",
-  "hora": "19:00",
-  "formato": "Story",
-  "tema": "Horário de funcionamento: segunda a sábado, inclusive feriados",
-  "objetivo": "Lembrete",
-  "status": "Reagendar — saiu de 2026-11-07 19:00 em 03/11 para entrar arte BestContent",
-  "precisa": "",
-  "tipo": "story"
- }
+  {
+    "data": "2026-11-01",
+    "hora": "19:00",
+    "formato": "Carrossel",
+    "tema": "Roupa com cheiro de guardado na chuva: 3 cuidados",
+    "objetivo": "Salvamentos",
+    "status": "Aprovado",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-01",
+    "hora": "12:00",
+    "formato": "Story",
+    "tema": "Como funciona a Clean em 3 passos: coleta, cuidado e entrega",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-02",
+    "hora": "08:00",
+    "formato": "Post único · feriado",
+    "tema": "Feriado de Finados: estamos funcionando para ajudar sua família na rotina",
+    "objetivo": "Aviso",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-02",
+    "hora": "19:00",
+    "formato": "Carrossel",
+    "tema": "Guia rápido: o que significam os símbolos da etiqueta",
+    "objetivo": "Salvamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-02",
+    "hora": "12:00",
+    "formato": "Card de serviço · Edredom",
+    "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-02",
+    "hora": "12:00",
+    "formato": "Story · preço",
+    "tema": "Camisa social lavada e passada por R$ 15, no cabide (troca: o post exclusivo do Facebook do dia já é edredom)",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-03",
+    "hora": "12:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Dobrado 80 peças (20 por semana): R$ 219,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-03",
+    "hora": "19:00",
+    "formato": "Carrossel",
+    "tema": "Por que a toalha fica áspera (e como deixar macia de novo)",
+    "objetivo": "Salvamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-03",
+    "hora": "10:00",
+    "formato": "Card de serviço · Pacote",
+    "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-03",
+    "hora": "09:00",
+    "formato": "Story",
+    "tema": "Você sabia? Usamos amaciante Downy Lírios ou Brisa",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-04",
+    "hora": "19:00",
+    "formato": "Edredom · preços (arte BestContent)",
+    "tema": "Casa pronta para as visitas de fim de ano: edredom limpinho, fofo e cheiroso — Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, aprovada 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-04/feed1.jpg",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-04",
+    "hora": "12:00",
+    "formato": "Card de serviço · Plano mensal",
+    "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-04/fb-extra.jpg",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-04",
+    "hora": "12:00",
+    "formato": "Story · preço",
+    "tema": "Pacote Limpo + Dobrado 20 peças por R$ 69,90 · fica pronto no mesmo dia (entrega na próxima rota ou retirada na Clean no mesmo dia)",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-04/story.jpg",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-05",
+    "hora": "12:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Dobrado 100 peças (25 por semana): R$ 249,90/mês · o mais escolhido",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, 04/11)",
+    "precisa": "Imagem pronta: posts/2026-11-05/feed1.jpg",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-05",
+    "hora": "19:00",
+    "formato": "Post único · PJ",
+    "tema": "Anfitriões de Airbnb: enxoval impecável para a temporada de fim de ano",
+    "objetivo": "Contato B2B",
+    "status": "Arte pronta (BestContent, 04/11)",
+    "precisa": "Imagem pronta: posts/2026-11-05/feed2.jpg",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-05",
+    "hora": "10:00",
+    "formato": "Pergunta · engajamento",
+    "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
+    "objetivo": "Comentários",
+    "status": "Arte pronta (BestContent, 04/11)",
+    "precisa": "Imagem pronta: posts/2026-11-05/fb-extra.jpg",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-05",
+    "hora": "09:00",
+    "formato": "Story · preço (arte BestContent)",
+    "tema": "Formaturas, casamentos e festas: terno e vestido impecáveis — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, aprovada 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-05/story.jpg",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-06",
+    "hora": "19:00",
+    "formato": "Post único · ternos e vestidos (arte BestContent)",
+    "tema": "Formaturas, casamentos e festas: seu terno e seu vestido impecáveis para o grande dia — Blazer R$ 50 · Terno 2 peças R$ 70 · Terno completo R$ 80 · Vestido de festa a partir de R$ 80 · Vestido de noiva a partir de R$ 350 · higienizados, passados e entregues no cabide",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, aprovada 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-06/feed1.jpg",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-06",
+    "hora": "12:00",
+    "formato": "Card de serviço · PJ",
+    "tema": "Para empresas em GV: Airbnb, restaurantes, salões e uniformes com coleta programada (WhatsApp empresas)",
+    "objetivo": "WhatsApp PJ",
+    "status": "Prompt enviado ao dono (04/11)",
+    "precisa": "Imagem BestContent: posts/2026-11-06/fb-extra.jpg",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-06",
+    "hora": "12:00",
+    "formato": "Story · preço",
+    "tema": "Plano mensal Limpo + Dobrado 100 peças: R$ 249,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "Prompt enviado ao dono (04/11)",
+    "precisa": "Imagem BestContent: posts/2026-11-06/story.jpg",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-07",
+    "hora": "10:00",
+    "formato": "Pacote avulso",
+    "tema": "Limpo + Dobrado 20 peças por R$ 69,90, sem mensalidade",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-07",
+    "hora": "12:00",
+    "formato": "Post único",
+    "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-07",
+    "hora": "19:00",
+    "formato": "Story · preço (arte BestContent)",
+    "tema": "Casa pronta para as visitas de fim de ano: edredom Solteiro R$ 50 · Casal R$ 60 · Queen R$ 70 · King R$ 80 · 2 peças 5% off, 3 ou mais 10% off",
+    "objetivo": "WhatsApp",
+    "status": "Arte pronta (BestContent, aprovada 03/11)",
+    "precisa": "Imagem pronta: posts/2026-11-07/story.jpg",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-08",
+    "hora": "19:00",
+    "formato": "Carrossel",
+    "tema": "De quanto em quanto tempo lavar lençol, fronha, toalha e edredom",
+    "objetivo": "Salvamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-08",
+    "hora": "12:00",
+    "formato": "Dica · salvar",
+    "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
+    "objetivo": "Compartilhamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-08",
+    "hora": "12:00",
+    "formato": "Story · preço",
+    "tema": "Plano de Passadoria 60 peças: R$ 199,90/mês · você lava, a Clean passa",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-09",
+    "hora": "12:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Dobrado 120 peças (30 por semana): R$ 289,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-09",
+    "hora": "19:00",
+    "formato": "Card de serviço · Edredom",
+    "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-09",
+    "hora": "19:00",
+    "formato": "Story",
+    "tema": "Enquete: você prefere roupa dobrada ou passada?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "Adicionar o adesivo no app antes de publicar",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-10",
+    "hora": "12:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Passado 80 peças (20 por semana): R$ 319,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-10",
+    "hora": "19:00",
+    "formato": "Carrossel",
+    "tema": "Calor em GV: roupa de academia com cheiro mesmo depois de lavar",
+    "objetivo": "Salvamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-10",
+    "hora": "10:00",
+    "formato": "Card de serviço · Pacote",
+    "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-10",
+    "hora": "09:00",
+    "formato": "Story · preço",
+    "tema": "Camisa social lavada e passada no cabide por R$ 15",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-11",
+    "hora": "12:00",
+    "formato": "Edredom · desconto",
+    "tema": "Mande 2 edredons e ganhe 5% de desconto; 3 ou mais, 10%",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-11",
+    "hora": "19:00",
+    "formato": "Card de serviço · Plano mensal",
+    "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-11",
+    "hora": "19:00",
+    "formato": "Story",
+    "tema": "Dica: jeans dura mais lavado do avesso e em água fria",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-12",
+    "hora": "12:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Passado 100 peças (25 por semana): R$ 379,90/mês · o mais escolhido",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-12",
+    "hora": "19:00",
+    "formato": "Post único",
+    "tema": "Formaturas e casamentos: terno R$ 70 · terno completo R$ 80, no cabide",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-12",
+    "hora": "10:00",
+    "formato": "Pergunta · engajamento",
+    "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
+    "objetivo": "Comentários",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-12",
+    "hora": "09:00",
+    "formato": "Story · preço",
+    "tema": "Pacote Limpo + Dobrado 30 peças por R$ 89,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-13",
+    "hora": "12:00",
+    "formato": "Pacote avulso",
+    "tema": "Limpo + Dobrado 30 peças por R$ 89,90 · o mais escolhido",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-13",
+    "hora": "19:00",
+    "formato": "Card de serviço · PJ",
+    "tema": "Para empresas em GV: Airbnb, restaurantes, salões e uniformes com coleta programada (WhatsApp empresas)",
+    "objetivo": "WhatsApp PJ",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-13",
+    "hora": "19:00",
+    "formato": "Story",
+    "tema": "Verdadeiro ou falso: água quente tira qualquer mancha?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-14",
+    "hora": "10:00",
+    "formato": "Edredom · preços",
+    "tema": "Verão chegando: higienize antes de guardar. Mantas, colchas e cobertores de R$ 40 a R$ 70",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-14",
+    "hora": "12:00",
+    "formato": "Post único",
+    "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-14",
+    "hora": "19:00",
+    "formato": "Story · preço",
+    "tema": "Plano de Passadoria 70 peças: R$ 219,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-15",
+    "hora": "19:00",
+    "formato": "Post interativo",
+    "tema": "Qual tarefa de casa você mais adia? (enquete nos comentários)",
+    "objetivo": "Comentários",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-15",
+    "hora": "12:00",
+    "formato": "Dica · salvar",
+    "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
+    "objetivo": "Compartilhamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-15",
+    "hora": "12:00",
+    "formato": "Story",
+    "tema": "Enquete: quantas peças sua casa lava por semana?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "Adicionar o adesivo no app antes de publicar",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-16",
+    "hora": "08:00",
+    "formato": "Plano mensal",
+    "tema": "Mensal Limpo + Passado 120 peças (30 por semana): R$ 439,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-16",
+    "hora": "12:00",
+    "formato": "Card de serviço · Edredom",
+    "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-16",
+    "hora": "19:00",
+    "formato": "Story · preço",
+    "tema": "Edredom solteiro por R$ 50: o quarto das crianças também merece",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-17",
+    "hora": "19:00",
+    "formato": "Plano mensal",
+    "tema": "Passadoria 60 peças (15 por semana): R$ 199,90/mês · você lava, a Clean passa",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-17",
+    "hora": "12:00",
+    "formato": "Card de serviço · Pacote",
+    "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-17",
+    "hora": "12:00",
+    "formato": "Story",
+    "tema": "Diferencial: sua roupa é lavada separada, nunca misturada",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-18",
+    "hora": "08:00",
+    "formato": "Edredom",
+    "tema": "Ácaros e noite mal dormida: edredom higienizado a partir de R$ 50",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-18",
+    "hora": "12:00",
+    "formato": "Card de serviço · Plano mensal",
+    "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-18",
+    "hora": "19:00",
+    "formato": "Story · preço",
+    "tema": "Pacote Limpo + Passado 30 peças por R$ 144,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-19",
+    "hora": "19:00",
+    "formato": "Pacote avulso",
+    "tema": "Limpo + Dobrado 40 peças por R$ 109,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-19",
+    "hora": "12:00",
+    "formato": "Pergunta · engajamento",
+    "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
+    "objetivo": "Comentários",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-19",
+    "hora": "12:00",
+    "formato": "Story",
+    "tema": "Quiz: o que significa o triângulo na etiqueta?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-20",
+    "hora": "08:00",
+    "formato": "Post único · feriado",
+    "tema": "Feriado de Consciência Negra: estamos funcionando para ajudar sua família na rotina",
+    "objetivo": "Aviso",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-20",
+    "hora": "12:00",
+    "formato": "Post único · feriado",
+    "tema": "Consciência Negra: estamos abertos e com coleta normal (versão Facebook do aviso)",
+    "objetivo": "Aviso",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-20",
+    "hora": "19:00",
+    "formato": "Story · preço",
+    "tema": "3 edredons ou mais: 10% de desconto",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-21",
+    "hora": "10:00",
+    "formato": "Plano mensal",
+    "tema": "Passadoria 70 peças: R$ 219,90/mês · o mais escolhido",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-21",
+    "hora": "12:00",
+    "formato": "Post único",
+    "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-21",
+    "hora": "19:00",
+    "formato": "Story",
+    "tema": "Contagem regressiva: Black Friday Clean vem aí",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "Adicionar o adesivo no app antes de publicar",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-22",
+    "hora": "19:00",
+    "formato": "Post único",
+    "tema": "Vem aí a Black Friday Clean (aviso)",
+    "objetivo": "Expectativa",
+    "status": "",
+    "precisa": "Definir a oferta de Black Friday",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-22",
+    "hora": "12:00",
+    "formato": "Dica · salvar",
+    "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
+    "objetivo": "Compartilhamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-22",
+    "hora": "12:00",
+    "formato": "Story · preço",
+    "tema": "Festas de fim de ano: vestido de festa a partir de R$ 80",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-23",
+    "hora": "melhor",
+    "formato": "Plano mensal",
+    "tema": "Família grande? Plano mensal de até 240 peças por mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-23",
+    "hora": "oposto",
+    "formato": "Card de serviço · Edredom",
+    "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-23",
+    "hora": "oposto",
+    "formato": "Story",
+    "tema": "Enquete: qual peça você mais gostaria de mandar para a lavanderia?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "Adicionar o adesivo no app antes de publicar",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-24",
+    "hora": "melhor",
+    "formato": "Post único",
+    "tema": "Black Friday Clean: a oferta",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "Oferta definida",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-24",
+    "hora": "oposto",
+    "formato": "Card de serviço · Pacote",
+    "tema": "Pacote Limpo + Dobrado: quanto custa, o que entra e como pedir",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-24",
+    "hora": "oposto",
+    "formato": "Story · preço",
+    "tema": "Plano mensal Limpo + Dobrado 80 peças: R$ 219,90/mês",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-25",
+    "hora": "melhor",
+    "formato": "Edredom · preços",
+    "tema": "Visitas de fim de ano: edredons a partir de R$ 50 e pillow top a partir de R$ 100",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-25",
+    "hora": "oposto",
+    "formato": "Card de serviço · Plano mensal",
+    "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-25",
+    "hora": "oposto",
+    "formato": "Story",
+    "tema": "Verdadeiro ou falso: amaciante demais deixa a toalha menos absorvente?",
+    "objetivo": "Interação",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-26",
+    "hora": "melhor",
+    "formato": "Pacote avulso",
+    "tema": "Limpo + Passado: 20 peças R$ 109,90 · 30 peças R$ 144,90 · 40 peças R$ 169,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-26",
+    "hora": "oposto",
+    "formato": "Pergunta · engajamento",
+    "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
+    "objetivo": "Comentários",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-26",
+    "hora": "oposto",
+    "formato": "Story · preço",
+    "tema": "Mantas, colchas e cobertores a partir de R$ 40",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-27",
+    "hora": "melhor",
+    "formato": "Post único",
+    "tema": "É hoje: Black Friday Clean",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "Oferta definida",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-27",
+    "hora": "oposto",
+    "formato": "Card de serviço · Black Friday",
+    "tema": "Black Friday Clean: oferta do dia em destaque para quem ainda não conhece a Clean",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-27",
+    "hora": "oposto",
+    "formato": "Story",
+    "tema": "O que os clientes dizem (outra avaliação real do Google)",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "Escolher outra avaliação real do Google",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-28",
+    "hora": "10:00",
+    "formato": "Edredom · antes e depois",
+    "tema": "Mais um edredom renovado na Clean",
+    "objetivo": "Alcance",
+    "status": "",
+    "precisa": "Fotos de antes e depois de outro edredom",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-28",
+    "hora": "12:00",
+    "formato": "Post único",
+    "tema": "Como funciona: chama no WhatsApp, a gente coleta, cuida e entrega em 2 a 3 dias",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-28",
+    "hora": "19:00",
+    "formato": "Story · preço",
+    "tema": "Pacote de 10 camisas sociais por R$ 134,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-29",
+    "hora": "19:00",
+    "formato": "Pacote avulso",
+    "tema": "Camisas sociais no cabide: 5 por R$ 69,90 · 10 por R$ 134,90 · 15 por R$ 194,90",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-29",
+    "hora": "12:00",
+    "formato": "Dica · salvar",
+    "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
+    "objetivo": "Compartilhamentos",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-29",
+    "hora": "12:00",
+    "formato": "Story",
+    "tema": "Dica: 3 cuidados para a roupa preta não desbotar",
+    "objetivo": "Lembrete",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "2026-11-30",
+    "hora": "melhor",
+    "formato": "Plano mensal",
+    "tema": "Dezembro sem pilha de roupa: planos de 80 a 240 peças, do solteiro à família grande",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "post"
+  },
+  {
+    "data": "2026-11-30",
+    "hora": "oposto",
+    "formato": "Card de serviço · Edredom",
+    "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "facebook"
+  },
+  {
+    "data": "2026-11-30",
+    "hora": "oposto",
+    "formato": "Story · preço",
+    "tema": "Edredom limpinho para o Natal: casal R$ 60, 3 ou mais com 10% off",
+    "objetivo": "WhatsApp",
+    "status": "",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "pendente",
+    "hora": "19:00",
+    "formato": "Edredom · antes e depois",
+    "tema": "Edredom encardido x higienizado na Clean",
+    "objetivo": "Alcance",
+    "status": "Reagendar — saiu de 2026-11-04 19:00 em 03/11 para entrar arte BestContent",
+    "precisa": "Fotos de antes e depois de um edredom",
+    "tipo": "post"
+  },
+  {
+    "data": "pendente",
+    "hora": "09:00",
+    "formato": "Story",
+    "tema": "Coleta e entrega grátis em toda Governador Valadares",
+    "objetivo": "Lembrete",
+    "status": "Reagendar — saiu de 2026-11-05 09:00 em 03/11 para entrar arte BestContent",
+    "precisa": "",
+    "tipo": "story"
+  },
+  {
+    "data": "pendente",
+    "hora": "19:00",
+    "formato": "Story",
+    "tema": "Horário de funcionamento: segunda a sábado, inclusive feriados",
+    "objetivo": "Lembrete",
+    "status": "Reagendar — saiu de 2026-11-07 19:00 em 03/11 para entrar arte BestContent",
+    "precisa": "",
+    "tipo": "story"
+  }
 ]
