@@ -69,3 +69,22 @@ Leitura: no Instagram o post único das 8h (Finados) segue com o maior alcance (
 | 04/11 | 12:07 | Facebook · exclusivo | Foto · BestContent | Plano L+D 80/100/120 | 2 | – | – | 0 |
 
 Leitura: no Instagram o post do plano L+D 80 (12h) empatou com o carrossel de etiqueta (73 x 72) e o aviso de feriado das 8h segue no topo (91). Primeira arte BestContent no feed (edredom, 19h) ainda com poucas horas, sem comparação justa. No Facebook, os posts orgânicos recentes (exclusivos e replicados) ficam entre 0 e 3 pessoas; só o card de edredom de 01/11 (provável impulsionamento) teve alcance relevante. Sem avaliações novas no Google nos últimos 7 dias. Sem comentários nos posts exclusivos.
+
+## Leitura de 05/11/2026 (rotina diária, 20h40)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 03/11 | 12:01 | Instagram | Post único | Plano L+D 80 peças | 84 (157 views) | 0 | 0 | – |
+| 03/11 | 19:01 | Instagram | Carrossel | Toalha áspera (3 passos) | 42 (120 views) | 1 | 0 | – |
+| 04/11 | 19:01 | Instagram | Post único · BestContent | Edredom visitas de fim de ano | 50 (97 views) | 1 | 0 | – |
+| 05/11 | 12:01 | Instagram | Post único · BestContent | Plano L+D 100 peças | 34 (56 views, ~8h) | 0 | 0 | – |
+| 05/11 | 19:02 | Instagram | Post único · BestContent | Airbnb (PJ) | 25 (44 views, ~1h) | 0 | 0 | – |
+| 03/11 | 12:00 | Facebook · feed replicado | Foto | Plano L+D 80 | 5 | – | – | 0 |
+| 03/11 | 19:01 | Facebook · feed replicado | Foto | Toalha áspera | 2 | – | – | 0 |
+| 04/11 | 19:01 | Facebook · feed replicado | Foto · BestContent | Edredom visitas | 4 | – | – | 1 |
+| 05/11 | 12:01 e 12:03 | Facebook · feed replicado | Foto · BestContent | Plano L+D 100 (PUBLICADO 2x) | 2 + 2 | – | – | 1 + 1 |
+| 05/11 | 19:03 | Facebook · feed replicado | Foto · BestContent | Airbnb (PJ) | 3 | – | – | 1 |
+| 03/11 | 10:01 | Facebook · exclusivo | Card serviço | Pacote L+D 20/30/40 | 4 | – | – | 0 |
+| 04/11 | 12:07 | Facebook · exclusivo | Foto · BestContent | Plano L+D 80/100/120 | 4 | – | – | 0 |
+| 05/11 | 10:01 (2x) | Facebook · exclusivo | Foto · BestContent | Pergunta GV (PUBLICADO 2x) | 2 + 2 | – | – | 1 + 0 |
+
+Leitura: no Instagram, edredom BestContent (50 em ~24h, 1 salvamento) já supera o carrossel de toalha no mesmo prazo; plano L+D 80 segue no topo (84). Facebook orgânico segue em 2–5 pessoas por post, sem diferença entre formatos. ATENÇÃO: em 05/11 o post do plano L+D 100 e a pergunta para GV saíram em duplicidade no Facebook. Avaliações Google: 3 novas 5 estrelas sem resposta (Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins).
