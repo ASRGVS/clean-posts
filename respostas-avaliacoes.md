@@ -34,3 +34,6 @@
 27. **Géssyka:** Géssyka, que alegria ler isso! Obrigado por amar e recomendar a Clean. 💙
 28. **Patricia:** Patricia, ficamos encantados também! Obrigado pelo carinho.
 29. **(sem resposta) Vitória Patrícia:** é da equipe da Clean. Melhor não responder; o Google não recomenda avaliação de funcionários.
+
+## Decisão do dono (07/11/2026)
+- NÃO responder estas 3 avaliações de 04/11 (5 estrelas): Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins. Não sugerir de novo.
