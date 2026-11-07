@@ -235,7 +235,7 @@
     "formato": "Carrossel",
     "tema": "De quanto em quanto tempo lavar lençol, fronha, toalha e edredom",
     "objetivo": "Salvamentos",
-    "status": "Prompt enviado ao dono (06/11)",
+    "status": "Prompt enviado ao dono (06/11); legendas prontas aguardando aprovação (07/11)",
     "precisa": "Imagem BestContent: posts/2026-11-08/feed1.jpg, feed2.jpg, feed3.jpg",
     "tipo": "post"
   },
@@ -245,7 +245,7 @@
     "formato": "Dica · salvar",
     "tema": "Dica de cuidado com roupa para salvar e compartilhar (tema diferente do feed do dia)",
     "objetivo": "Compartilhamentos",
-    "status": "Prompt enviado ao dono (06/11)",
+    "status": "Prompt enviado ao dono (06/11); legendas prontas aguardando aprovação (07/11)",
     "precisa": "Imagem BestContent: posts/2026-11-08/fb-extra.jpg",
     "tipo": "facebook"
   },
@@ -255,7 +255,7 @@
     "formato": "Story · preço",
     "tema": "Plano de Passadoria 60 peças: R$ 199,90/mês · você lava, a Clean passa",
     "objetivo": "WhatsApp",
-    "status": "Prompt enviado ao dono (06/11)",
+    "status": "Prompt enviado ao dono (06/11); legendas prontas aguardando aprovação (07/11)",
     "precisa": "Imagem BestContent: posts/2026-11-08/story.jpg",
     "tipo": "story"
   },
@@ -265,8 +265,8 @@
     "formato": "Plano mensal",
     "tema": "Mensal Limpo + Dobrado 120 peças (30 por semana): R$ 289,90/mês",
     "objetivo": "WhatsApp",
-    "status": "",
-    "precisa": "",
+    "status": "Prompt enviado ao dono (07/11)",
+    "precisa": "Imagem BestContent: posts/2026-11-09/feed1.jpg",
     "tipo": "post"
   },
   {
@@ -275,8 +275,8 @@
     "formato": "Card de serviço · Edredom",
     "tema": "Edredom higienizado: preço por tamanho, prazo de 2 a 3 dias e coleta grátis",
     "objetivo": "WhatsApp",
-    "status": "",
-    "precisa": "",
+    "status": "Prompt enviado ao dono (07/11)",
+    "precisa": "Imagem BestContent: posts/2026-11-09/fb-extra.jpg",
     "tipo": "facebook"
   },
   {
@@ -285,8 +285,8 @@
     "formato": "Story",
     "tema": "Enquete: você prefere roupa dobrada ou passada?",
     "objetivo": "Interação",
-    "status": "",
-    "precisa": "Adicionar o adesivo no app antes de publicar",
+    "status": "Prompt enviado ao dono (07/11)",
+    "precisa": "Imagem BestContent: posts/2026-11-09/story.jpg · adicionar o adesivo de enquete no app",
     "tipo": "story"
   },
   {

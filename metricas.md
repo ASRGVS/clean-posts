@@ -105,3 +105,20 @@ Leitura: no Instagram, edredom BestContent (50 em ~24h, 1 salvamento) já supera
 | 06/11 | 12:00 | Facebook · exclusivo | Foto · BestContent | Empresas (uniformes) | 1 | – | – | 0 |
 
 Leitura: no Instagram o edredom BestContent lidera a semana (62, 1 salvamento) e o Airbnb das 19h empatou com o plano das 12h (46 x 46). Facebook orgânico segue em 1–4 pessoas; a pergunta para GV é o exclusivo que mais rende (4 + 4), sem comentários. Sem duplicidade em 06/11. Avaliações Google: as 3 de 04/11 (Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins) seguem sem resposta.
+
+## Leitura de 07/11/2026 (rotina diária, 20h40)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 04/11 | 19:01 | Instagram | Post único · BestContent | Edredom visitas de fim de ano | 70 (131 views) | 1 | 0 | – |
+| 05/11 | 12:01 | Instagram | Post único · BestContent | Plano L+D 100 peças | 55 (103 views) | 0 | 0 | – |
+| 05/11 | 19:02 | Instagram | Post único · BestContent | Airbnb (PJ) | 56 (90 views) | 0 | 0 | – |
+| 06/11 | 19:01 | Instagram | Post único · BestContent | Ternos e vestidos | 52 (103 views) | 0 | 0 | – |
+| 04/11 | 19:01 | Facebook · feed replicado | Foto · BestContent | Edredom visitas | 4 | – | – | 1 |
+| 05/11 | 12:01 e 12:03 | Facebook · feed replicado | Foto · BestContent | Plano L+D 100 (2x) | 3 + 3 | – | – | 1 + 1 |
+| 05/11 | 19:03 | Facebook · feed replicado | Foto · BestContent | Airbnb (PJ) | 3 | – | – | 1 |
+| 06/11 | 19:01 | Facebook · feed replicado | Foto · BestContent | Ternos e vestidos | 1 | – | – | 0 |
+| 04/11 | 12:07 | Facebook · exclusivo | Foto · BestContent | Plano L+D 80/100/120 | 4 | – | – | 0 |
+| 05/11 | 10:01 (2x) | Facebook · exclusivo | Foto · BestContent | Pergunta GV | 4 + 4 | – | – | 1 + 0 |
+| 06/11 | 12:00 | Facebook · exclusivo | Foto · BestContent | Empresas (uniformes) | 1 | – | – | 0 |
+
+Leitura: edredom BestContent segue líder no Instagram (70, 1 salvamento); ternos e vestidos chegou a 52 em ~1 dia, ritmo parecido com o plano e o Airbnb. Facebook orgânico parado em 1–4 pessoas; a pergunta para GV continua sendo o exclusivo que mais rende. Os posts de 07/11 ainda não aparecem nos dados do Windsor (cache do plano trial, sem atualização forçada) — conferir na próxima leitura. Avaliações Google: as 3 de 04/11 seguem sem resposta.
