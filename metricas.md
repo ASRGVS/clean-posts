@@ -122,3 +122,18 @@ Leitura: no Instagram o edredom BestContent lidera a semana (62, 1 salvamento) e
 | 06/11 | 12:00 | Facebook · exclusivo | Foto · BestContent | Empresas (uniformes) | 1 | – | – | 0 |
 
 Leitura: edredom BestContent segue líder no Instagram (70, 1 salvamento); ternos e vestidos chegou a 52 em ~1 dia, ritmo parecido com o plano e o Airbnb. Facebook orgânico parado em 1–4 pessoas; a pergunta para GV continua sendo o exclusivo que mais rende. Os posts de 07/11 ainda não aparecem nos dados do Windsor (cache do plano trial, sem atualização forçada) — conferir na próxima leitura. Avaliações Google: as 3 de 04/11 seguem sem resposta.
+
+## Leitura de 08/11/2026 (rotina diária, 20h40)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 04/11 | 19:01 | Instagram | Post único · BestContent | Edredom visitas de fim de ano | 70 (131 views) | 1 | 0 | – |
+| 05/11 | 12:01 | Instagram | Post único · BestContent | Plano L+D 100 peças | 60 (113 views) | 0 | 0 | – |
+| 05/11 | 19:02 | Instagram | Post único · BestContent | Airbnb (PJ) | 60 (111 views) | 0 | 0 | – |
+| 06/11 | 19:01 | Instagram | Post único · BestContent | Ternos e vestidos | 57 (109 views) | 0 | 0 | – |
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 16 (32 views, ~2h) | 0 | 0 | – |
+| 06/11 | 19:01 | Facebook · feed replicado | Foto · BestContent | Ternos e vestidos | 2 | – | – | 0 |
+| 08/11 | 19:01 | Facebook · feed replicado | Foto | Guia cama e banho | 0 (recente) | – | – | 0 |
+| 06/11 | 12:00 | Facebook · exclusivo | Foto · BestContent | Empresas (uniformes) | 1 | – | – | 0 |
+| 08/11 | 12:01 | Facebook · exclusivo | Foto | 3 cuidados roupa durar | 0 | – | – | 0 |
+
+Leitura: Instagram estável; edredom segue líder (70, 1 salvamento) e os posts de 05–06/11 convergiram para 57–60. Facebook orgânico parado em 0–4 pessoas; pergunta para GV continua o exclusivo que mais rende. Posts de 07/11 ainda não aparecem no Windsor. Artes Canva começam em 09/11 (comparar a partir de 10–11/11). Avaliações Google: as 3 de 04/11 (Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins) seguem sem resposta.
