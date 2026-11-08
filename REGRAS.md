@@ -28,7 +28,7 @@
 ## Facebook (aquecimento da Página)
 - Todo post do feed do Instagram também sai na Página do Facebook (mesmo horário).
 - Além disso, 1 post por dia SÓ no Facebook (itens com "tipo": "facebook" no calendario.json), em horário diferente do feed. Rodízio: seg edredom com preço; ter pacote Limpo + Dobrado; qua plano mensal da semana; qui pergunta para a comunidade de GV; sex empresas (WhatsApp 98749-0985); sáb como funciona; dom dica para salvar. Nunca repetir o tema nem a arte do feed ou do story do mesmo dia; variar o ângulo semana a semana.
-- Arte: imagem gerada pelo dono no BestContent a partir do prompt do Claude (ver seção "Imagens"), 1080x1350; legenda curta terminando com o link do WhatsApp.
+- Arte: imagem gerada pelo Claude no Canva e aprovada pelo dono (ver seção "Imagens"), 1080x1350; legenda curta terminando com o link do WhatsApp.
 - Posts de pergunta: o objetivo é comentário. Responder os comentários no mesmo dia.
 - Stories: a API não publica story no Facebook; eles chegam à Página pelo compartilhamento automático de stories do Instagram (configurado no app).
 
@@ -36,13 +36,13 @@
 - Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
 - Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png).
 
-## Imagens: o dono gera tudo no BestContent (desde 03/11/2026)
-- O Claude NÃO gera mais imagens (nada de Playwright/HTML para artes). Para cada post do feed, post exclusivo do Facebook e story, o Claude escreve um PROMPT de imagem e pede ao dono; ele gera no BestContent e devolve a imagem. Não se pede aprovação de arte: a imagem que o dono devolve já é a aprovada.
-- Modelo dos prompts (o dono aprovou este estilo; referências: posts/2026-11-04/feed1.jpg, posts/2026-11-06/feed1.jpg, posts/2026-11-05/story.jpg, posts/2026-11-07/story.jpg): "Fotografia publicitária realista", formato e tamanho exatos (feed 4:5 1080x1350; story 9:16 1080x1920 com 250 px livres no topo e 300 px livres embaixo), pessoas brasileiras reais em casa iluminada, peça embalada com etiqueta discreta "Clean", luz natural suave, tons creme/branco/azul-claro (rosé para vestidos), espaço livre para texto; transição suave em fade (degradê) entre a foto e o bloco de textos, sem corte reto nem borda (pedido do dono em 04/11/2026); tipografia delicada (título em serifa fina, resto sans-serif leve); todos os textos da arte em português escritos entre aspas, exatamente como devem sair (preços, condições, "Coleta e entrega grátis em Governador Valadares", botão azul-marinho "Chame no WhatsApp"); logo "Clean" pequena no canto superior esquerdo, nunca centralizada; paleta #1E3554, #5C86AE, #F6F3EE (rosé #EBD3CF). Um prompt completo e independente por imagem, em bloco de código.
-- Em TODO prompt (pedido do dono em 05/11/2026): pedir a logo "Clean" com o texto exatamente "Lavanderia Delivery" (sem letra repetida), e, nos stories, deixar botão do WhatsApp e todos os textos ACIMA dos 300 px livres de baixo (nada de botão na faixa inferior).
-- Avisar o dono para conferir acentos e preços na imagem gerada; se vier errado, ele pode gerar só a foto e o Claude descreve a correção.
-- Não prometer nada que a Clean não faz (ex.: capa protetora só se o dono confirmar).
-- Imagens recebidas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
+## Imagens: o Claude gera pelo Canva e o dono só aprova (desde 08/11/2026)
+- Substitui o fluxo BestContent de 03/11. O Claude gera cada imagem (feed, post exclusivo do Facebook e story) pelo conector do Canva (generate-image), no estilo aprovado "fotografia publicitária realista", e envia ao dono SOMENTE para aprovação. Autorizado pelo dono em 08/11/2026.
+- LOGO (regra do dono, 08/11/2026): toda arte leva a logo OFICIAL (marca/logo-cor.png; no Canva, asset "Logo Clean oficial (cor)", media id MAHaVXGlgf4), aplicada por cima da imagem. Nunca deixar a IA desenhar a logo nem permitir variações. No prompt, pedir "sem logo e sem nenhuma marca escrita" e o canto superior esquerdo livre. Se o fundo atrás da logo for poluído, usar só um fundo branco arredondado atrás dela, sem alterar a logo.
+- Montagem: copiar um design-base limpo (ex.: "Clean · feed1 · 09/11/2026 · Plano mensal 120 peças") com copy-design, trocar a imagem com update_fill e renomear "Clean · <peça> · <data> · <tema>". Nunca pedir página nova ao create-design (ele cria modelos de exemplo).
+- Formatos: feed 4:5 1080x1350, logo 240x104 em top 44 / left 48; story 9:16 1080x1920 com 250 px livres no topo e 300 px embaixo, logo em top 270 / left 56.
+- Stories precisam ser chamativos: selo, título grande, informação de serviço/preço e chamada (o dono reprovou em 08/11 um story só com pergunta). Enquete/caixinha: deixar área vazia para o adesivo, colocado pelo app.
+- Conferir na prévia acentos, preços e telefone antes de mandar. Imagens aprovadas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
 
 ## Prazos (confirmado pelo dono em 03/11/2026)
 - Pacote avulso Limpo e Dobrado: fica PRONTO no mesmo dia. A entrega depende da próxima rota, ou o cliente pode retirar na Clean no mesmo dia. Nunca escrever "entrega em 24h" nem "entrega no mesmo dia".
