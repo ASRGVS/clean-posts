@@ -137,3 +137,19 @@ Leitura: edredom BestContent segue líder no Instagram (70, 1 salvamento); terno
 | 08/11 | 12:01 | Facebook · exclusivo | Foto | 3 cuidados roupa durar | 0 | – | – | 0 |
 
 Leitura: Instagram estável; edredom segue líder (70, 1 salvamento) e os posts de 05–06/11 convergiram para 57–60. Facebook orgânico parado em 0–4 pessoas; pergunta para GV continua o exclusivo que mais rende. Posts de 07/11 ainda não aparecem no Windsor. Artes Canva começam em 09/11 (comparar a partir de 10–11/11). Avaliações Google: as 3 de 04/11 (Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins) seguem sem resposta.
+
+## Leitura de 09/11/2026 (rotina diária, 20h45)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 04/11 | 19:01 | Instagram | Post único · BestContent | Edredom visitas de fim de ano | 82 (150 views) | 1 | 1 | – |
+| 05/11 | 12:01 | Instagram | Post único · BestContent | Plano L+D 100 peças | 67 (127 views) | 0 | 0 | – |
+| 05/11 | 19:02 | Instagram | Post único · BestContent | Airbnb (PJ) | 66 (117 views) | 0 | 0 | – |
+| 06/11 | 19:01 | Instagram | Post único · BestContent | Ternos e vestidos | 64 (122 views) | 0 | 0 | – |
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 106 (213 views) | 0 | 1 | – |
+| 09/11 | 12:33 | Instagram | Post único · Canva | Plano L+D 120 peças | 35 (60 views, ~5h) | 0 | 0 | – |
+| 08/11 | 19:01 | Facebook · feed replicado | Foto | Guia cama e banho | 0 | – | – | 0 |
+| 09/11 | 12:33 | Facebook · feed replicado | Foto · Canva | Plano L+D 120 | 3 | – | – | 0 |
+| 08/11 | 12:01 | Facebook · exclusivo | Foto | 3 cuidados roupa durar | 1 | – | – | 0 |
+| 09/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Edredom com preço | 0 (recente) | – | – | 0 |
+
+Leitura: o carrossel de dica (08/11, cama e banho) virou o melhor post da semana no Instagram (106 de alcance, 1 compartilhamento), acima do edredom BestContent (82). Primeira arte Canva (plano 120) com 35 em ~5h, ritmo parecido com os planos BestContent — comparar em 11/11. Facebook orgânico segue em 0–5 pessoas; pergunta para GV ainda é o exclusivo com mais engajamento. Posts de 07/11 continuam fora dos dados do Windsor. Avaliações Google: as 6 de 04/11 já estão respondidas; nenhuma nova.
