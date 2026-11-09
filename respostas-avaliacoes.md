@@ -37,3 +37,8 @@
 
 ## Decisão do dono (07/11/2026)
 - NÃO responder estas 3 avaliações de 04/11 (5 estrelas): Conceição Rabelo, Estagio Supervisão, Joaquim Antonio Martins. Não sugerir de novo.
+
+## 08/11/2026 (aprovadas pelo dono, publicadas via API)
+- Conceição Rabelo (5★): "Conceição, obrigado pelas 5 estrelas! Foi um prazer cuidar das suas roupas. Conte sempre com a Clean. 💙"
+- Estagio Supervisão (5★): "Obrigado pelo 'excelente serviço'! Ficamos muito felizes em atender vocês. Até a próxima! 💙"
+- Joaquim Antonio Martins (5★): "Joaquim, muito obrigado pela avaliação! É um prazer ter você como cliente. 💙"
