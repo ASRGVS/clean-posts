@@ -153,3 +153,21 @@ Leitura: Instagram estável; edredom segue líder (70, 1 salvamento) e os posts 
 | 09/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Edredom com preço | 0 (recente) | – | – | 0 |
 
 Leitura: o carrossel de dica (08/11, cama e banho) virou o melhor post da semana no Instagram (106 de alcance, 1 compartilhamento), acima do edredom BestContent (82). Primeira arte Canva (plano 120) com 35 em ~5h, ritmo parecido com os planos BestContent — comparar em 11/11. Facebook orgânico segue em 0–5 pessoas; pergunta para GV ainda é o exclusivo com mais engajamento. Posts de 07/11 continuam fora dos dados do Windsor. Avaliações Google: as 6 de 04/11 já estão respondidas; nenhuma nova.
+
+## Leitura de 10/11/2026 (rotina diária, 20h50)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 04/11 | 19:01 | Instagram | Post único · BestContent | Edredom visitas de fim de ano | 90 (161 views) | 1 | 1 | – |
+| 05/11 | 12:01 | Instagram | Post único · BestContent | Plano L+D 100 peças | 73 (143 views) | 0 | 0 | – |
+| 06/11 | 19:01 | Instagram | Post único · BestContent | Ternos e vestidos | 74 (147 views) | 0 | 0 | – |
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 117 (253 views) | 0 | 1 | – |
+| 09/11 | 12:33 | Instagram | Post único · Canva | Plano L+D 120 peças | 54 (104 views, ~31h) | 0 | 0 | – |
+| 10/11 | 12:01 | Instagram | Post único · Canva | Plano L+P 80 peças | 38 (76 views, ~8h) | 0 | 0 | – |
+| 10/11 | 19:01 | Instagram | Carrossel · Canva | Roupa de academia com cheiro | 17 (51 views, ~1h) | 0 | 0 | – |
+| 09/11 | 12:33 | Facebook · feed replicado | Foto · Canva | Plano L+D 120 | 5 | – | – | 0 |
+| 10/11 | 12:00 | Facebook · feed replicado | Foto · Canva | Plano L+P 80 | 2 | – | – | 0 |
+| 10/11 | 19:01 | Facebook · feed replicado | Carrossel (1ª tela) · Canva | Roupa de academia | 1 | – | – | 0 |
+| 09/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Edredom com preço | 1 | – | – | 0 |
+| 10/11 | 10:00 | Facebook · exclusivo | Foto · Canva | Pacote L+D | 0 | – | – | 0 |
+
+Leitura: carrossel de dica (08/11) segue líder no Instagram (117); edredom vem logo atrás (90). Artes Canva com ritmo igual ou um pouco melhor que as BestContent nos planos (plano 120: 54 em ~31h). Facebook orgânico segue em 0–5 pessoas; a pergunta para GV (05/11) é o único exclusivo com engajamento. Avaliações Google: nenhuma nova nos últimos 7 dias.

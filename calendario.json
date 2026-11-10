@@ -335,7 +335,7 @@
     "formato": "Edredom · desconto",
     "tema": "Mande 2 edredons e ganhe 5% de desconto; 3 ou mais, 10%",
     "objetivo": "WhatsApp",
-    "status": "Imagem aprovada pelo dono (09/11); falta aprovar legenda",
+    "status": "Imagem aprovada (09/11); legendas enviadas para aprovação em 10/11",
     "precisa": "Imagem pronta (Canva, logo oficial, aprovada 09/11): posts/2026-11-11/feed1.jpg",
     "tipo": "post"
   },
@@ -345,7 +345,7 @@
     "formato": "Card de serviço · Plano mensal",
     "tema": "Plano mensal da semana: valor, quantidade de peças e edredom grátis na assinatura",
     "objetivo": "WhatsApp",
-    "status": "Imagem aprovada pelo dono (09/11); falta aprovar legenda",
+    "status": "Imagem aprovada (09/11); legendas enviadas para aprovação em 10/11",
     "precisa": "Imagem pronta (Canva, logo oficial, aprovada 09/11): posts/2026-11-11/fb-extra.jpg",
     "tipo": "facebook"
   },
@@ -355,7 +355,7 @@
     "formato": "Story",
     "tema": "Dica: jeans dura mais lavado do avesso e em água fria",
     "objetivo": "Lembrete",
-    "status": "Imagem aprovada pelo dono (09/11); falta aprovar legenda",
+    "status": "Imagem aprovada (09/11); legendas enviadas para aprovação em 10/11",
     "precisa": "Imagem pronta (Canva, logo oficial, aprovada 09/11): posts/2026-11-11/story.jpg",
     "tipo": "story"
   },
@@ -365,8 +365,8 @@
     "formato": "Plano mensal",
     "tema": "Mensal Limpo + Passado 100 peças (25 por semana): R$ 379,90/mês · o mais escolhido",
     "objetivo": "WhatsApp",
-    "status": "",
-    "precisa": "",
+    "status": "Arte Canva gerada em 10/11; aguardando aprovação",
+    "precisa": "Aprovar arte Canva (feed1) — ver posts/2026-11-12/prompts-imagens.md",
     "tipo": "post"
   },
   {
@@ -375,8 +375,8 @@
     "formato": "Post único",
     "tema": "Formaturas e casamentos: terno R$ 70 · terno completo R$ 80, no cabide",
     "objetivo": "WhatsApp",
-    "status": "",
-    "precisa": "",
+    "status": "Arte Canva gerada em 10/11; aguardando aprovação",
+    "precisa": "Aprovar arte Canva (feed2) — ver posts/2026-11-12/prompts-imagens.md",
     "tipo": "post"
   },
   {
@@ -385,8 +385,8 @@
     "formato": "Pergunta · engajamento",
     "tema": "Pergunta para GV: qual roupa mais dá trabalho de lavar na sua casa? (responder todos os comentários)",
     "objetivo": "Comentários",
-    "status": "",
-    "precisa": "",
+    "status": "Arte Canva gerada em 10/11; aguardando aprovação",
+    "precisa": "Aprovar arte Canva (fb-extra) — ver posts/2026-11-12/prompts-imagens.md",
     "tipo": "facebook"
   },
   {
@@ -395,8 +395,8 @@
     "formato": "Story · preço",
     "tema": "Pacote Limpo + Dobrado 30 peças por R$ 89,90",
     "objetivo": "WhatsApp",
-    "status": "",
-    "precisa": "",
+    "status": "Arte Canva gerada em 10/11; aguardando aprovação",
+    "precisa": "Aprovar arte Canva (story) — ver posts/2026-11-12/prompts-imagens.md",
     "tipo": "story"
   },
   {
