@@ -1,4 +1,4 @@
-# Artes Canva — 12/11/2026 (quinta) · geradas em 10/11, aguardando aprovação do dono
+# Artes Canva — 12/11/2026 (quinta) · geradas em 10/11, aprovadas pelo dono em 10/11
 
 - feed1 (12:00) · Plano mensal L+P 100 peças R$ 379,90 + edredom grátis — design DAHajzNUzaQ · imagem MAHaj3BOILI
 - feed2 (19:00) · Ternos formaturas e casamentos: terno R$ 70 · completo R$ 80 — design DAHajxgCp24 · imagem MAHaj6DSwCI
