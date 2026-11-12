@@ -36,13 +36,20 @@
 - Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
 - Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png).
 
-## Imagens: o Claude gera pelo Canva e o dono só aprova (desde 08/11/2026)
-- Substitui o fluxo BestContent de 03/11. O Claude gera cada imagem (feed, post exclusivo do Facebook e story) pelo conector do Canva (generate-image), no estilo aprovado "fotografia publicitária realista", e envia ao dono SOMENTE para aprovação. Autorizado pelo dono em 08/11/2026.
-- LOGO (regra do dono, 08/11/2026): toda arte leva a logo OFICIAL (marca/logo-cor.png; no Canva, asset "Logo Clean oficial (cor)", media id MAHaVXGlgf4), aplicada por cima da imagem. Nunca deixar a IA desenhar a logo nem permitir variações. No prompt, pedir "sem logo e sem nenhuma marca escrita" e o canto superior esquerdo livre. Se o fundo atrás da logo for poluído, usar só um fundo branco arredondado atrás dela, sem alterar a logo.
-- Montagem: copiar um design-base limpo (ex.: "Clean · feed1 · 09/11/2026 · Plano mensal 120 peças") com copy-design, trocar a imagem com update_fill e renomear "Clean · <peça> · <data> · <tema>". Nunca pedir página nova ao create-design (ele cria modelos de exemplo).
-- Formatos: feed 4:5 1080x1350, logo 240x104 em top 44 / left 48; story 9:16 1080x1920 com 250 px livres no topo e 300 px embaixo, logo em top 270 / left 56.
-- Stories precisam ser chamativos: selo, título grande, informação de serviço/preço e chamada (o dono reprovou em 08/11 um story só com pergunta). Enquete/caixinha: deixar área vazia para o adesivo, colocado pelo app.
-- Conferir na prévia acentos, preços e telefone antes de mandar. Imagens aprovadas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
+## Imagens: o dono gera no BestContent a partir dos scripts do Claude (desde 13/11/2026)
+- Substitui o fluxo Canva de 08/11. As imagens de Instagram (feed e story) e Facebook (feed replicado e post exclusivo) são geradas pelo DONO no BestContent. O Claude NÃO gera mais essas imagens no Canva: ele envia um script (prompt) por arte, no padrão abaixo, e o dono devolve as imagens prontas.
+- Cada script é enviado em bloco de código, pronto para copiar, com o título "<DATA> · <feed1 | story | fb-extra> · <tema>" e o horário de publicação.
+- Padrão do script (aprovado nas artes de anúncio de 12/11/2026):
+  1. Formato: "Fotografia publicitária realista, formato vertical 4:5" (feed e Facebook, 1080x1350) ou "9:16" (story, 1080x1920).
+  2. Cena: pessoas brasileiras reais em casa iluminada ou lavanderia clara, peça do tema embalada em plástico transparente com etiqueta branca lisa, luz natural, tons branco/azul-claro.
+  3. Cabeçalho (sempre): "No canto superior esquerdo, ícone de localização (pin) seguido do texto \"Governador Valadares\". No canto superior direito, aplicar a logo padrão da Lavanderia Clean (arquivo anexado), sem inventar, redesenhar ou alterar o logotipo." O dono anexa a logo oficial (marca/logo-cor.png) em cada geração.
+  4. Textos em português entre aspas, exatamente como devem sair, com hierarquia: título em destaque, preço (promoção sempre como "de R$ X por R$ Y" e prazo "só até DD/MM"), uma linha de apoio ("Coleta e entrega grátis").
+  5. Chamada clara (sempre): botão verde arredondado "CHAME NO WHATSAPP E AGENDE A COLETA" (feed) ou "TOQUE E CHAME NO WHATSAPP" com seta para cima (story). Quando couber, o número (33) 98761-0434 (empresas: (33) 98749-0985).
+  6. Fecho (sempre): "Sem nenhum outro logotipo, sem marcas d'água."
+- Stories precisam ser chamativos: título grande, informação de serviço/preço e chamada (o dono reprovou em 08/11 um story só com pergunta). Enquete/caixinha: deixar área vazia para o adesivo, colocado pelo app.
+- Quando o dono mandar as imagens: conferir acentos, preços, prazos, telefone e LOGO. Se a logo do topo ou as etiquetas vierem com logo desenhada pela IA (letras erradas, "Deliverry", variações), substituir pela oficial (marca/logo-cor.png) por cima, como feito em 12/11, e mostrar ao dono antes de publicar.
+- LOGO (regra do dono, 08/11/2026): só as logos oficiais de marca/ (logo-cor.png e logo-branca.png) são autorizadas. Nunca permitir variações.
+- Imagens aprovadas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
 
 ## Prazos (confirmado pelo dono em 03/11/2026)
 - Pacote avulso Limpo e Dobrado: fica PRONTO no mesmo dia. A entrega depende da próxima rota, ou o cliente pode retirar na Clean no mesmo dia. Nunca escrever "entrega em 24h" nem "entrega no mesmo dia".
