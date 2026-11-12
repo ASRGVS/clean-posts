@@ -192,3 +192,21 @@ Leitura: carrossel de dica (08/11) segue líder no Instagram (117); edredom vem 
 | 11/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Plano L+D 80 | 0 (recente) | – | – | 0 |
 
 Leitura: carrossel de dica (08/11) segue líder (120). Edredom Canva de hoje fez 35 em ~8h, mesmo ritmo do plano 120 Canva; Canva e BestContent seguem empatados (planos 67 vs 75 com 2 dias a menos). Facebook orgânico parado em 0–5 pessoas; a pergunta para GV (05/11) segue o único exclusivo com engajamento. Avaliações Google: todas respondidas (incl. as 5 de 10/11); nenhuma nova.
+
+## Leitura de 12/11/2026 (rotina diária, 20h45)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 06/11 | 19:01 | Instagram | Post único · BestContent | Ternos e vestidos | 79 (154 views) | 0 | 0 | – |
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 121 (266 views) | 0 | 1 | – |
+| 09/11 | 12:33 | Instagram | Post único · Canva | Plano L+D 120 peças | 74 (137 views) | 0 | 0 | – |
+| 10/11 | 12:01 | Instagram | Post único · Canva | Plano L+P 80 peças | 54 (109 views) | 0 | 0 | – |
+| 10/11 | 19:01 | Instagram | Carrossel · Canva | Roupa de academia com cheiro | 44 (141 views) | 0 | 0 | – |
+| 11/11 | 12:01 | Instagram | Post único · Canva | Edredom desconto progressivo | 39 (76 views, ~1 dia) | 0 | 0 | – |
+| 09/11 | 12:33 | Facebook · feed replicado | Foto · Canva | Plano L+D 120 | 5 | – | – | 0 |
+| 10/11 | 12:00 | Facebook · feed replicado | Foto · Canva | Plano L+P 80 | 5 | – | – | 0 |
+| 10/11 | 19:01 | Facebook · feed replicado | Carrossel (1ª tela) · Canva | Roupa de academia | 5 | – | – | 0 |
+| 11/11 | 12:01 | Facebook · feed replicado | Foto · Canva | Edredom desconto | 2 | – | – | 1 |
+| 10/11 | 10:00 | Facebook · exclusivo | Foto · Canva | Pacote L+D | 2 | – | – | 0 |
+| 11/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Plano L+D 80 | 2 | – | – | 1 |
+
+Leitura: carrossel de dica (08/11) segue líder (121). Edredom de 11/11 ficou abaixo (39 em 1 dia). Posts de 12/11 ainda não aparecem no Windsor. Facebook segue em 0–5 pessoas; primeiros engajamentos nos exclusivos/replicados de 11/11 (1 cada). Comparação BestContent (13/11+) x Canva começa amanhã. Avaliações Google: 1 nova sem resposta (Adriana Dos Santos, 5★, sem comentário, 11/11).
