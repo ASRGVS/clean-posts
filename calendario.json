@@ -968,5 +968,45 @@
     "status": "Reagendar — saiu de 2026-11-07 19:00 em 03/11 para entrar arte BestContent",
     "precisa": "",
     "tipo": "story"
+  },
+  {
+    "data": "2026-11-14",
+    "hora": "12:00",
+    "formato": "Reels",
+    "tema": "Pacote 20 peças L+D de R$ 69,90 por R$ 59,90 (storytelling)",
+    "objetivo": "WhatsApp",
+    "status": "Aprovado pelo dono (12/11); publicação agendada",
+    "precisa": "Vídeo pronto: anuncios/2026-11-12-reestruturacao/videos/pacotes-storytelling.mp4 · legenda anuncios/2026-11-12-reestruturacao/videos/legenda-pacotes-storytelling.txt",
+    "tipo": "reels"
+  },
+  {
+    "data": "2026-11-16",
+    "hora": "12:00",
+    "formato": "Reels",
+    "tema": "Edredom R$ 10 OFF (storytelling)",
+    "objetivo": "WhatsApp",
+    "status": "Aprovado pelo dono (12/11); publicação agendada",
+    "precisa": "Vídeo pronto: anuncios/2026-11-12-reestruturacao/videos/edredom-storytelling.mp4 · legenda anuncios/2026-11-12-reestruturacao/videos/legenda-edredom-storytelling.txt",
+    "tipo": "reels"
+  },
+  {
+    "data": "2026-11-18",
+    "hora": "12:00",
+    "formato": "Reels",
+    "tema": "Pacote 20 peças L+D de R$ 69,90 por R$ 59,90 (cortes rápidos)",
+    "objetivo": "WhatsApp",
+    "status": "Aprovado pelo dono (12/11); publicação agendada",
+    "precisa": "Vídeo pronto: anuncios/2026-11-12-reestruturacao/videos/pacotes-cortes-rapidos.mp4 · legenda anuncios/2026-11-12-reestruturacao/videos/legenda-pacotes-cortes-rapidos.txt",
+    "tipo": "reels"
+  },
+  {
+    "data": "2026-11-20",
+    "hora": "12:00",
+    "formato": "Reels",
+    "tema": "Feriado + Edredom R$ 10 OFF (cortes rápidos)",
+    "objetivo": "WhatsApp",
+    "status": "Aprovado pelo dono (12/11); publicação agendada",
+    "precisa": "Vídeo pronto: anuncios/2026-11-12-reestruturacao/videos/edredom-cortes-rapidos.mp4 · legenda anuncios/2026-11-12-reestruturacao/videos/legenda-edredom-cortes-rapidos.txt",
+    "tipo": "reels"
   }
 ]
