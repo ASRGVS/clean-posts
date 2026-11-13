@@ -49,6 +49,7 @@
 - Stories precisam ser chamativos: título grande, informação de serviço/preço e chamada (o dono reprovou em 08/11 um story só com pergunta). Enquete/caixinha: deixar área vazia para o adesivo, colocado pelo app.
 - Quando o dono mandar as imagens: conferir acentos, preços, prazos, telefone e LOGO. Se a logo do topo ou as etiquetas vierem com logo desenhada pela IA (letras erradas, "Deliverry", variações), substituir pela oficial (marca/logo-cor.png) por cima, como feito em 12/11, e mostrar ao dono antes de publicar.
 - LOGO (regra do dono, 08/11/2026): só as logos oficiais de marca/ (logo-cor.png e logo-branca.png) são autorizadas. Nunca permitir variações.
+- APLICAÇÃO DA LOGO (regra do dono, 13/11/2026): a logo oficial é PNG com fundo transparente. Colar DIRETO sobre a imagem, no canto superior direito, SEM quadro, cartão, caixa, fundo branco ou sombra atrás. Use logo-cor.png em fundo claro e logo-branca.png em fundo escuro.
 - Imagens aprovadas: salvar em posts/AAAA-MM-DD/ (feed1.jpg, story.jpg, fb-extra.jpg) em JPEG qualidade 92, commit e push.
 
 ## Prazos (confirmado pelo dono em 03/11/2026)
