@@ -210,3 +210,22 @@ Leitura: carrossel de dica (08/11) segue líder (120). Edredom Canva de hoje fez
 | 11/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Plano L+D 80 | 2 | – | – | 1 |
 
 Leitura: carrossel de dica (08/11) segue líder (121). Edredom de 11/11 ficou abaixo (39 em 1 dia). Posts de 12/11 ainda não aparecem no Windsor. Facebook segue em 0–5 pessoas; primeiros engajamentos nos exclusivos/replicados de 11/11 (1 cada). Comparação BestContent (13/11+) x Canva começa amanhã. Avaliações Google: 1 nova sem resposta (Adriana Dos Santos, 5★, sem comentário, 11/11).
+
+## Leitura de 13/11/2026 (rotina diária, 20h45)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 128 (279 views) | 0 | 1 | – |
+| 09/11 | 12:33 | Instagram | Post único · Canva | Plano L+D 120 peças | 89 (165 views) | 0 | 0 | – |
+| 10/11 | 12:01 | Instagram | Post único · Canva | Plano L+P 80 peças | 64 (129 views) | 0 | 0 | – |
+| 10/11 | 19:01 | Instagram | Carrossel · Canva | Roupa de academia com cheiro | 53 (155 views) | 0 | 0 | – |
+| 11/11 | 12:01 | Instagram | Post único · Canva | Edredom desconto progressivo | 55 (96 views) | 0 | 2 | – |
+| 12/11 | 20:59 | Instagram | Reels | Plano mensal (storytelling) | 35 (50 views, ~1 dia) | 0 | 0 | – |
+| 13/11 | 12:35 | Instagram | Post único · BestContent | Pacote L+D 30 peças | 69 (140 views, ~8h) | 1 | 0 | – |
+| 10/11 | 19:01 | Facebook · feed replicado | Carrossel (1ª tela) · Canva | Roupa de academia | 6 | – | – | 0 |
+| 11/11 | 12:01 | Facebook · feed replicado | Foto · Canva | Edredom desconto | 3 | – | – | 1 |
+| 13/11 | 12:35 | Facebook · feed replicado | Foto · BestContent | Pacote L+D 30 | 1 (recente) | – | – | 0 |
+| 10/11 | 10:00 | Facebook · exclusivo | Foto · Canva | Pacote L+D | 4 | – | – | 0 |
+| 11/11 | 19:01 | Facebook · exclusivo | Foto · Canva | Plano L+D 80 | 5 | – | – | 1 |
+| 13/11 | 19:03 | Facebook · exclusivo | Foto · BestContent | Empresas/Airbnb | 0 (recente) | – | – | 0 |
+
+Leitura: 1º post BestContent (13/11) fez 69 de alcance e 1 salvamento em ~8h, quase o dobro do ritmo do edredom Canva de 11/11 (35 em ~8h). Carrossel de dica (08/11) segue líder (128). Facebook segue em 0–6 pessoas; exclusivo de plano (11/11) foi o melhor (5 pessoas, 1 engajamento). Avaliações Google: Adriana Dos Santos (5★, 11/11) ainda sem resposta.
