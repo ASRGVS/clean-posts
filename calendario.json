@@ -1008,5 +1008,15 @@
     "status": "Aprovado pelo dono (12/11); publicação agendada",
     "precisa": "Vídeo pronto: anuncios/2026-11-12-reestruturacao/videos/edredom-cortes-rapidos.mp4 · legenda anuncios/2026-11-12-reestruturacao/videos/legenda-edredom-cortes-rapidos.txt",
     "tipo": "reels"
+  },
+  {
+    "data": "2026-11-13",
+    "hora": "07:44",
+    "formato": "Story · vídeo",
+    "tema": "Vídeo dos planos mensais (storytelling, anuncios/2026-11-12-planos/video-plano-mensal.mp4)",
+    "objetivo": "WhatsApp",
+    "status": "Publicado (pedido do dono, 13/11); media id 18083991029719792",
+    "precisa": "",
+    "tipo": "story"
   }
 ]
