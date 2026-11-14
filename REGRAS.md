@@ -36,7 +36,10 @@
 - Todo post de serviço de uma peça (edredom, camisa social, terno, vestido, mantas etc.) leva a imagem da peça na arte — nunca só texto e tabela.
 - Preferência: foto real enviada pelo dono (peça embalada com a logo da Clean). Fotos aprovadas ficam em marca/fotos/ (edredom: marca/fotos/edredom-embalado.png).
 
-## Imagens: o dono gera no BestContent a partir dos scripts do Claude (desde 13/11/2026)
+## Imagens: o Claude volta a criar no Canva (desde 14/11/2026, substitui o fluxo BestContent abaixo)
+- Foto gerada no Canva (pessoas brasileiras reais + roupas em pacotes ou cabides, sem texto/logo); textos, preços e logo oficial aplicados por cima no layout aprovado em 14/11: topo claro com pin "Governador Valadares" e logo-cor.png direto sobre a imagem; parte de baixo em onda no degradê azul da marca, títulos brancos, selos laranja, cartões brancos para preços, botão verde do WhatsApp. Script: marca/arte.py.
+
+## (Histórico) Imagens pelo dono no BestContent (13/11/2026)
 - Substitui o fluxo Canva de 08/11. As imagens de Instagram (feed e story) e Facebook (feed replicado e post exclusivo) são geradas pelo DONO no BestContent. O Claude NÃO gera mais essas imagens no Canva: ele envia um script (prompt) por arte, no padrão abaixo, e o dono devolve as imagens prontas.
 - Cada script é enviado em bloco de código, pronto para copiar, com o título "<DATA> · <feed1 | story | fb-extra> · <tema>" e o horário de publicação.
 - Padrão do script (aprovado nas artes de anúncio de 12/11/2026):
