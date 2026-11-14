@@ -229,3 +229,22 @@ Leitura: carrossel de dica (08/11) segue líder (121). Edredom de 11/11 ficou ab
 | 13/11 | 19:03 | Facebook · exclusivo | Foto · BestContent | Empresas/Airbnb | 0 (recente) | – | – | 0 |
 
 Leitura: 1º post BestContent (13/11) fez 69 de alcance e 1 salvamento em ~8h, quase o dobro do ritmo do edredom Canva de 11/11 (35 em ~8h). Carrossel de dica (08/11) segue líder (128). Facebook segue em 0–6 pessoas; exclusivo de plano (11/11) foi o melhor (5 pessoas, 1 engajamento). Avaliações Google: Adriana Dos Santos (5★, 11/11) ainda sem resposta.
+
+## Leitura de 14/11/2026 (rotina diária, ~21h)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 08/11 | 19:01 | Instagram | Carrossel | Guia lavar cama e banho | 130 (282 views) | 0 | 1 | – |
+| 09/11 | 12:33 | Instagram | Post único · Canva | Plano L+D 120 peças | 93 (170 views) | 0 | 0 | – |
+| 10/11 | 12:01 | Instagram | Post único · Canva | Plano L+P 80 peças | 64 (129 views) | 0 | 0 | – |
+| 10/11 | 19:01 | Instagram | Carrossel · Canva | Roupa de academia | 57 (167 views) | 0 | 0 | – |
+| 11/11 | 12:01 | Instagram | Post único · Canva | Edredom desconto progressivo | 56 (97 views) | 0 | 2 | – |
+| 12/11 | 20:59 | Instagram | Reels | Plano mensal (storytelling) | 44 (65 views) | 0 | 0 | – |
+| 13/11 | 12:35 | Instagram | Post único · BestContent | Pacote L+D 30 peças | 80 (159 views) | 1 | 0 | – |
+| 14/11 | 10:33 | Instagram | Post único · Canva onda azul | Edredom antes de guardar (R$10 OFF) | 53 (104 views, ~10h) | 0 | 0 | – |
+| 14/11 | 12:02 | Instagram | Reels | Pacote 20 peças (storytelling) | 36 (60 views, ~9h) | 0 | 0 | – |
+| 13/11 | 12:35 | Facebook · feed replicado | Foto · BestContent | Pacote L+D 30 | 2 | – | – | 0 |
+| 14/11 | 10:33 | Facebook · feed replicado | Foto · Canva onda azul | Edredom antes de guardar | 0 (recente) | – | – | 0 |
+| 13/11 | 19:03 | Facebook · exclusivo | Foto · BestContent | Empresas/Airbnb | 2 | – | – | 0 |
+| 14/11 | 12:00 | Facebook · exclusivo | Foto · Canva onda azul | Como funciona | 0 (recente) | – | – | 0 |
+
+Leitura: 1º post Canva onda azul (edredom, 14/11) fez 53 em ~10h — abaixo do BestContent de 13/11 (69 em ~8h), acima do Canva antigo (edredom 11/11: 35 em ~8h). Carrossel de dica (08/11) segue líder (130). Facebook segue em 0–6 pessoas; exclusivos de plano/pacote (4–5) rendem mais que empresas (2). Avaliações Google: 4 sem resposta (Adriana Dos Santos 11/11; Luciana Gloria, beatriz diniz, Deilza Ribeiro 13/11), respostas enviadas ao dono para aprovação.

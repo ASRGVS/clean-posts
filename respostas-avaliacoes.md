@@ -42,3 +42,9 @@
 - Conceição Rabelo (5★): "Conceição, obrigado pelas 5 estrelas! Foi um prazer cuidar das suas roupas. Conte sempre com a Clean. 💙"
 - Estagio Supervisão (5★): "Obrigado pelo 'excelente serviço'! Ficamos muito felizes em atender vocês. Até a próxima! 💙"
 - Joaquim Antonio Martins (5★): "Joaquim, muito obrigado pela avaliação! É um prazer ter você como cliente. 💙"
+
+## 14/11/2026 (sugestões aguardando aprovação do dono)
+- Adriana Dos Santos (5★, 11/11, sem comentário): "Adriana, obrigado pelas 5 estrelas! Foi um prazer cuidar das suas roupas. Conte sempre com a Clean. 💙"
+- Luciana Gloria (5★, 13/11, sem comentário): "Luciana, muito obrigado pela avaliação! Ficamos felizes em atender você. Até a próxima! 💙"
+- beatriz diniz (5★, 13/11): "Beatriz, que alegria saber que sua primeira experiência com lavanderia está sendo tão boa! Vamos passar o carinho para a Tamires. Obrigado pela confiança. 💙"
+- Deilza Ribeiro (5★, 13/11): "Deilza, obrigado pelo reconhecimento! Seriedade e capricho são o nosso compromisso. Conte sempre com a Clean. 💙"
