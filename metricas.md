@@ -248,3 +248,19 @@ Leitura: 1º post BestContent (13/11) fez 69 de alcance e 1 salvamento em ~8h, q
 | 14/11 | 12:00 | Facebook · exclusivo | Foto · Canva onda azul | Como funciona | 0 (recente) | – | – | 0 |
 
 Leitura: 1º post Canva onda azul (edredom, 14/11) fez 53 em ~10h — abaixo do BestContent de 13/11 (69 em ~8h), acima do Canva antigo (edredom 11/11: 35 em ~8h). Carrossel de dica (08/11) segue líder (130). Facebook segue em 0–6 pessoas; exclusivos de plano/pacote (4–5) rendem mais que empresas (2). Avaliações Google: 4 sem resposta (Adriana Dos Santos 11/11; Luciana Gloria, beatriz diniz, Deilza Ribeiro 13/11), respostas enviadas ao dono para aprovação.
+
+## Leitura de 15/11/2026 (rotina diária, ~20h45)
+| Data | Hora | Canal | Formato | Tema | Alcance | Salvamentos | Compart. | Engaj. |
+|---|---|---|---|---|---|---|---|---|
+| 13/11 | 12:35 | Instagram | Post único · BestContent | Pacote L+D 30 peças | 89 (177 views) | 1 | 0 | – |
+| 14/11 | 10:33 | Instagram | Post único · Canva onda azul | Edredom antes de guardar (R$10 OFF) | 71 (131 views) | 0 | 0 | – |
+| 14/11 | 12:02 | Instagram | Reels | Pacote 20 peças (storytelling) | 50 (77 views) | 0 | 0 | – |
+| 15/11 | 19:01 | Instagram | Post único · Canva onda azul | Enquete: tarefa que mais adia | 24 (48 views, ~1h30) | 0 | 0 | – |
+| 13/11 | 12:35 | Facebook · feed replicado | Foto · BestContent | Pacote L+D 30 | 3 | – | – | 0 |
+| 14/11 | 10:33 | Facebook · feed replicado | Foto · Canva onda azul | Edredom antes de guardar | 0 | – | – | 0 |
+| 15/11 | 19:01 | Facebook · feed replicado | Foto · Canva onda azul | Enquete tarefa de casa | 0 (recente) | – | – | 0 |
+| 13/11 | 19:03 | Facebook · exclusivo | Foto · BestContent | Empresas/Airbnb | 5 | – | – | 0 |
+| 14/11 | 12:00 | Facebook · exclusivo | Foto · Canva onda azul | Como funciona | 0 | – | – | 0 |
+| 15/11 | 12:00 | Facebook · exclusivo | Foto · Canva onda azul | Dica camisa social | 0 | – | – | 0 |
+
+Leitura: no Instagram, edredom onda azul (14/11) chegou a 71 em ~1,5 dia, acima do edredom Canva antigo (11/11: 58 em 4 dias) e abaixo do BestContent (13/11: 89). Enquete de domingo começou bem (24 em 1h30). Facebook: posts de 14 e 15/11 (replicados e exclusivos) seguem com 0 de alcance — possível atraso do Windsor; exclusivos que mais renderam na semana: plano L+D 80 (6, 1 engaj.) e empresas/Airbnb (5). Sem comentários para responder. Avaliações Google: todas respondidas.
