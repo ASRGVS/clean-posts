@@ -281,3 +281,6 @@ Leitura: no Instagram, edredom onda azul (14/11) chegou a 71 em ~1,5 dia, acima 
 | 16/11 | 12:00 | Facebook · exclusivo | Foto · Canva onda azul | Edredom preço por tamanho | 0 (recente) | – | – | 0 |
 
 Leitura: Instagram — plano L+P 120 onda azul (60 em ~13h) segue o ritmo do edredom onda azul (14/11: 77 em 2,5 dias); onda azul fica entre o BestContent (13/11: 89) e o Canva antigo (35–58). Reels de 12h rendem menos que posts de foto. Facebook orgânico parado: 0–1 pessoa por post desde 14/11, replicado ou exclusivo — sem comentários para responder. Avaliações Google: todas respondidas.
+
+## Leitura de 17/11/2026 (rotina diária, ~20h45)
+Sem dados: o Windsor.ai passou para o plano Free (1 conta) e bloqueou as leituras de Instagram, Facebook e Google ("reads are paused, 7 accounts connected"). Métricas e avaliações não puderam ser lidas.
