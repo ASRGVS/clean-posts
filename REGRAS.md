@@ -58,3 +58,7 @@
 ## Prazos (confirmado pelo dono em 03/11/2026)
 - Pacote avulso Limpo e Dobrado: fica PRONTO no mesmo dia. A entrega depende da próxima rota, ou o cliente pode retirar na Clean no mesmo dia. Nunca escrever "entrega em 24h" nem "entrega no mesmo dia".
 - Prazo médio geral de entrega dos demais serviços: 2 a 3 dias.
+
+## Publicação pelo navegador do dono (desde 17/11/2026)
+- O Windsor.ai voltou ao plano Free e bloqueou o acesso. As publicações passam a ser feitas no Chrome do computador do dono (Claude in Chrome): Instagram e Facebook pelo Meta Business Suite (agendamento nativo), Google pelo Perfil da Empresa (sem agendamento; publicado logo após agendar o feed).
+- Horários flexíveis: o dono nem sempre está no computador. Se o horário sugerido ainda não passou, agenda; se já passou, publica na hora (ou no próximo horário livre até 21h, com 1h entre feed, post exclusivo e story).
