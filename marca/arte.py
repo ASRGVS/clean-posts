@@ -28,10 +28,13 @@ def pin(d, x, y, s, col):
 
 def render(photo, out, blocks, story=False, shift=0, fade_extra=0):
     W, H = (1080, 1920) if story else (1080, 1350)
-    base = Image.open(photo).convert('RGB').resize((W, H))
-    if shift:
-        nb = Image.new('RGB', (W, H), WHITE); nb.paste(base, (0, -shift)); base = nb
-    img = base.convert('RGBA')
+    if photo is None:
+        img = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    else:
+        base = Image.open(photo).convert('RGB').resize((W, H))
+        if shift:
+            nb = Image.new('RGB', (W, H), WHITE); nb.paste(base, (0, -shift)); base = nb
+        img = base.convert('RGBA')
     M = 64; CW = W - 2 * M
     sc = 1.12 if story else 1.0
     meas = ImageDraw.Draw(img)
@@ -191,4 +194,5 @@ def render(photo, out, blocks, story=False, shift=0, fade_extra=0):
             d.text((M + CW / 2, y + bh + int(30 * sc)), 'WhatsApp ' + PHONE + '  ·  Coleta e entrega grátis', font=F('m', int(26 * sc)), fill=WHITE, anchor='mm')
         y += h + GAP
 
-    img.convert('RGB').save(out, quality=92)
+    if out.endswith('.png'): img.save(out)
+    else: img.convert('RGB').save(out, quality=92)
