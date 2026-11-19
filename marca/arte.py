@@ -65,8 +65,9 @@ def render(photo, out, blocks, story=False, shift=0, fade_extra=0):
 
     # ---- fades: top (header) and bottom (content)
     ov = Image.new('RGBA', (W, H), (0, 0, 0, 0)); od = ImageDraw.Draw(ov)
-    for yy in range(0, 230):
-        od.line([(0, yy), (W, yy)], fill=(255, 255, 255, int(215 * (1 - yy / 230) ** 1.6)))
+    FH = int(270 * sc)
+    for yy in range(0, FH):
+        od.line([(0, yy), (W, yy)], fill=(255, 255, 255, int(238 * (1 - yy / FH) ** 1.25)))
     import math
     top = y0 - int(70 * sc)
     grad = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gp = grad.load()
