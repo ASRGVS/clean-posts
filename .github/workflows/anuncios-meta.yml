@@ -3,6 +3,9 @@ name: Relatório de anúncios Meta (só leitura)
 on:
   schedule:
     - cron: "30 9 * * *"   # 06:30 em Brasília, antes da análise diária
+  push:
+    branches: [main]
+    paths: ["automacao/anuncios_meta.py"]
   workflow_dispatch:
     inputs:
       de:
