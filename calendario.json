@@ -645,9 +645,10 @@
   "formato": "Plano mensal",
   "tema": "Passadoria 70 peças: R$ 219,90/mês",
   "objetivo": "WhatsApp",
-  "status": "Aprovado pelo dono (19/11); agendar no Business Suite",
+  "status": "Aprovado pelo dono (19/11); publicação automática pela API 21/11 10:00",
   "precisa": "Imagem pronta: posts/2026-11-21/feed1.jpg",
-  "tipo": "post"
+  "tipo": "post",
+  "api": "aprovado"
  },
  {
   "data": "2026-11-21",
