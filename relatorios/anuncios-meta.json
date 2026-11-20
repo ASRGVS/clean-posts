@@ -1,0 +1,924 @@
+{
+ "gerado_em": "2026-11-20T11:00-03:00",
+ "conta": "act_2060604801080316",
+ "orcamentos": [
+  {
+   "conjunto": "[Planos Mensais][Amplo][GV][H+M 25-55][Vídeo]",
+   "campanha": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+   "status": "ACTIVE",
+   "orcamento_dia": 25.0
+  },
+  {
+   "conjunto": "[Planos Mensais][Remarketing][GV]",
+   "campanha": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+   "status": "ACTIVE",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[Pacote 20 peças R$59,90][Remarketing][GV]",
+   "campanha": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+   "status": "PAUSED",
+   "orcamento_dia": 8.0
+  },
+  {
+   "conjunto": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+   "campanha": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+   "status": "ACTIVE",
+   "orcamento_dia": 22.0
+  },
+  {
+   "conjunto": "[Teste][Aberto][H+M][25-55][Sem remarketing][R$20]",
+   "campanha": "[Clean][TESTE][Imagens Multi-Serviços][GV][R$20][08-11-2026]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[Post Família grande planos][GV][Fem 25+][R$10][3 dias]",
+   "campanha": "[Clean][Facebook][Impulsionar posts][GV][Nov-2026]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[Ternos e Vestidos][Formaturas e festas][Fem 25+][R$20][03-11-2026]",
+   "campanha": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+   "status": "PAUSED",
+   "orcamento_dia": 15.0
+  },
+  {
+   "conjunto": "[Post Edredom preços][GV][Fem 25+][R$10][3 dias]",
+   "campanha": "[Clean][Facebook][Impulsionar posts][GV][Nov-2026]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[Clean][Só Facebook][GV][Fem 25+][R$20][01-11-2026]",
+   "campanha": "[Clean][WhatsApp][Serviços][GV]",
+   "status": "PAUSED",
+   "orcamento_dia": 15.0
+  },
+  {
+   "conjunto": "[Novo][Fem][25+][Advantage][R$25]",
+   "campanha": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+   "status": "PAUSED",
+   "orcamento_dia": 15.0
+  },
+  {
+   "conjunto": "[Quente][Fem][25+][R$25]",
+   "campanha": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+   "status": "PAUSED",
+   "orcamento_dia": 23.33
+  },
+  {
+   "conjunto": "[Clean][Feriado 02-11][Público quente GV][R$80 total]",
+   "campanha": "[Clean][WhatsApp][Feriado 02-11][Remarketing][R$80]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 0.0
+  },
+  {
+   "conjunto": "[Não utilizar][Cópia técnica sem anúncios][Pausado]",
+   "campanha": "[Clean][WhatsApp][Feriado 02-11][Remarketing][R$80]",
+   "status": "PAUSED",
+   "orcamento_dia": 50.0
+  },
+  {
+   "conjunto": "Remarketing",
+   "campanha": "[ampliv][traf][perfil][novos planos]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Aberto + 25 Fem",
+   "campanha": "[ampliv][traf][perfil][novos planos]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Aberto + 25 Fem",
+   "campanha": "[traf][video fernanda][novos planos]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Remarketing",
+   "campanha": "[traf][video fernanda][novos planos]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "[Clean][Pacotes e Planos][Imagens][Remarketing][22-10-2026]",
+   "campanha": "[Clean][WhatsApp][Serviços][GV]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 25.0
+  },
+  {
+   "conjunto": "[Teste] Empresas GV — WhatsApp — R$20",
+   "campanha": "[Clean][Teste][Empresarial][WhatsApp][18-10-2026]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 17.65
+  },
+  {
+   "conjunto": "[Teste B] Bastidores Clean — R$20/dia",
+   "campanha": "[ampliv][traf][perfil][3114]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "[pub adv fem] [25+]",
+   "campanha": "[ampliv][wpp][gv][semana do edredom] 17 a 24/10",
+   "status": "PAUSED",
+   "orcamento_dia": 50.0
+  },
+  {
+   "conjunto": "[Clean][Semana Edredom][Público conhecido][25+]",
+   "campanha": "[ampliv][wpp][gv][semana do edredom] 17 a 24/10",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 61.76
+  },
+  {
+   "conjunto": "Aberto",
+   "campanha": "[VAGA] [Auxiliar de Lavanderia] [wpp andre]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 50.0
+  },
+  {
+   "conjunto": "Pub Remarketing",
+   "campanha": "[ampliv][wpp][gv][pacotes]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 15.0
+  },
+  {
+   "conjunto": "[pub][fem][25+]",
+   "campanha": "[ampliv][wpp][gv][pacotes]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 15.0
+  },
+  {
+   "conjunto": "Aberto",
+   "campanha": "[VAGA] [passadeira] [wpp andre]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 50.0
+  },
+  {
+   "conjunto": "[pub quente] [25+]",
+   "campanha": "[ampliv][wpp][gv][dia do consumidor]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 50.0
+  },
+  {
+   "conjunto": "[Clean][Edredom][Remarketing][Teste 2][25+]",
+   "campanha": "[Clean][WhatsApp][Serviços][GV]",
+   "status": "PAUSED",
+   "orcamento_dia": 6.96
+  },
+  {
+   "conjunto": "Pub Quente",
+   "campanha": "[ampliv][traf][feriado][07/09]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "Pub Aberto",
+   "campanha": "[ampliv][traf][feriado][07/09]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "Aberto",
+   "campanha": "[VAGA] [motorista] [wpp andre]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 30.0
+  },
+  {
+   "conjunto": "Profissões e Interesses",
+   "campanha": "[ampliv][wpp][gv][B2B]",
+   "status": "PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Empresas e Cargos",
+   "campanha": "[ampliv][wpp][gv][B2B]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Pub Frio 22+ (interesse)",
+   "campanha": "[ampliv][traf][perfil][3114]",
+   "status": "PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Pub Frio 22+",
+   "campanha": "[ampliv][traf][perfil][3114]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "MULHERES MSG 30 A 50",
+   "campanha": "[VAGA] [AUXILIAR] [wpp andre]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 6.0
+  },
+  {
+   "conjunto": "[pub quente] [25+]",
+   "campanha": "[ampliv][wpp][andre][gv][edredom]",
+   "status": "PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[pub][fem][25+]",
+   "campanha": "[ampliv][wpp][andre][gv][edredom]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "Pub Frio 22+ (interesse)",
+   "campanha": "[ampliv][traf][perfil][2982]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "Pub Frio 22+",
+   "campanha": "[ampliv][traf][perfil][2982]",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "[pub quente] [25+]",
+   "campanha": "[Clean][WhatsApp][Serviços][GV]",
+   "status": "PAUSED",
+   "orcamento_dia": 30.0
+  },
+  {
+   "conjunto": "[Clean][Edredom][Remarketing][25+]",
+   "campanha": "[Clean][WhatsApp][Serviços][GV]",
+   "status": "PAUSED",
+   "orcamento_dia": 26.47
+  },
+  {
+   "conjunto": "CJ - RMK - VIDEO VIEW",
+   "campanha": "[ARP] [ENGAJAMENTO] ROUPA LIMPA > ZAP - 20,00 - 04.03.26",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "CJ - BAIRROS GV",
+   "campanha": "[ARP] [ENGAJAMENTO] ROUPA LIMPA > ZAP - 20,00 - 04.03.26",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "MULHERES MSG 30 A 50",
+   "campanha": "[ARP] VAGA PASSADEIRA — 20.02.26",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "CJ - LEAD ZAP",
+   "campanha": "[ARP] [LEADS] [BAIRROS] [LAVAGEM ROUPA] - 10.01.26 - 25,00",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": null
+  },
+  {
+   "conjunto": "CJ ENGAJAMENTO VIDEOS - MSG - ZAP",
+   "campanha": "[ARP] EDREDONS [VENDAS ZAP] 05.02.26 - R$20,50",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": null
+  },
+  {
+   "conjunto": "CJ PB GV - INSTAGRAM > ZAP",
+   "campanha": "[ARP] [LEADS] [ZAP] [2026] - 23.01.26 - 30",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 25.0
+  },
+  {
+   "conjunto": "CJ PB 25M GV - INSTAGRAM - VV",
+   "campanha": "[ARP] [RECONHECIMENTO] FERNANDA - 10,00",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "CJ PB GV - INSTAGRAM > ZAP",
+   "campanha": "[ARP] [LEADS] [ZAP] [EDREDONS] FERNANDA - 28.12.25 - 20,30",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 25.17
+  },
+  {
+   "conjunto": "MULHERES MSG 30 A 50",
+   "campanha": "[ARP] VAGA PARA AUXILIAR",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "CJ1 - GV",
+   "campanha": "[ARP] SOCIAL MASC. [ENG] [ZAP] [GV-BAIRROS]  - 24.10.25",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "CJ1 - GV",
+   "campanha": "[ARP] SOCIAL FEM. [ENG] [ZAP] [GV-BAIRROS]  - 24.10.25",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 30.2
+  },
+  {
+   "conjunto": "CJ1 - GV",
+   "campanha": "[ARP] EDREDONS [ENG] [ZAP] R$ 30,00",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 30.0
+  },
+  {
+   "conjunto": "CJ [PUBLICO ADV] GV",
+   "campanha": "[ARP] [RMK] [TRAFEGO] [ZAP] EXPERIMENTE > 09.10.25",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  },
+  {
+   "conjunto": "CJ PB GV - INSTAGRAM > ZAP",
+   "campanha": "[ARP] [ENG] [ZAP] [GV] INFLUENCER MULHER - 07.10.25",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 10.0
+  },
+  {
+   "conjunto": "CJ PB GV - INSTAGRAM > ZAP",
+   "campanha": "[ARP] [ENG] [ZAP] [GV]  DYEGAO - R$ 20,00",
+   "status": "CAMPAIGN_PAUSED",
+   "orcamento_dia": 20.0
+  }
+ ],
+ "ontem": {
+  "de": "2026-11-19",
+  "ate": "2026-11-19",
+  "conjuntos": [
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "spend": "28.11",
+    "impressions": "1235",
+    "reach": "1102",
+    "frequency": "1.12069",
+    "clicks": "13",
+    "ctr": "1.052632",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 2.0,
+    "custo_por_conversa": 14.055
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "spend": "11.35",
+    "impressions": "304",
+    "reach": "293",
+    "frequency": "1.037543",
+    "clicks": "2",
+    "ctr": "0.657895",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 1.0,
+    "custo_por_conversa": 11.35
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Amplo][GV][H+M 25-55][Vídeo]",
+    "adset_id": "120250819659190467",
+    "spend": "27.46",
+    "impressions": "922",
+    "reach": "786",
+    "frequency": "1.173028",
+    "clicks": "9",
+    "ctr": "0.976139",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 2.0,
+    "custo_por_conversa": 13.73
+   }
+  ],
+  "anuncios": [
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Feed Promo R$10 OFF [12-11-2026]",
+    "ad_id": "120250730494910467",
+    "spend": "0.02",
+    "impressions": "3",
+    "reach": "3",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Feed Casal R$50 [12-11-2026]",
+    "ad_id": "120250730498960467",
+    "spend": "0.22",
+    "impressions": "21",
+    "reach": "21",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Vídeo Storytelling R$10 OFF [12-11-2026]",
+    "ad_id": "120250733210540467",
+    "spend": "1.85",
+    "impressions": "167",
+    "reach": "154",
+    "frequency": "1.084416",
+    "clicks": "1",
+    "ctr": "0.598802",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Vídeo Cortes Rápidos R$10 OFF [12-11-2026]",
+    "ad_id": "120250733211340467",
+    "spend": "26.02",
+    "impressions": "1044",
+    "reach": "947",
+    "frequency": "1.102429",
+    "clicks": "12",
+    "ctr": "1.149425",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 2.0,
+    "custo_por_conversa": 13.01
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "ad_name": "[Planos] Vídeo Storytelling Plano Mensal [12-11-2026]",
+    "ad_id": "120250736511120467",
+    "spend": "11.35",
+    "impressions": "304",
+    "reach": "293",
+    "frequency": "1.037543",
+    "clicks": "2",
+    "ctr": "0.657895",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 1.0,
+    "custo_por_conversa": 11.35
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Amplo][GV][H+M 25-55][Vídeo]",
+    "adset_id": "120250819659190467",
+    "ad_name": "[Planos] Vídeo Storytelling Plano Mensal [12-11-2026]",
+    "ad_id": "120250819659230467",
+    "spend": "27.46",
+    "impressions": "922",
+    "reach": "786",
+    "frequency": "1.173028",
+    "clicks": "9",
+    "ctr": "0.976139",
+    "date_start": "2026-11-19",
+    "date_stop": "2026-11-19",
+    "conversas": 2.0,
+    "custo_por_conversa": 13.73
+   }
+  ]
+ },
+ "acumulado": {
+  "de": "2026-11-17",
+  "ate": "2026-11-19",
+  "conjuntos": [
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "spend": "22.06",
+    "impressions": "1543",
+    "reach": "1295",
+    "frequency": "1.191506",
+    "clicks": "8",
+    "ctr": "0.518471",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 1.0,
+    "custo_por_conversa": 22.06
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Ternos e Vestidos][Formaturas e festas][Fem 25+][R$20][03-11-2026]",
+    "adset_id": "120250595884140467",
+    "spend": "47.89",
+    "impressions": "2470",
+    "reach": "1936",
+    "frequency": "1.275826",
+    "clicks": "22",
+    "ctr": "0.890688",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 5.0,
+    "custo_por_conversa": 9.578
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "spend": "65.32",
+    "impressions": "3025",
+    "reach": "2438",
+    "frequency": "1.240771",
+    "clicks": "29",
+    "ctr": "0.958678",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 5.0,
+    "custo_por_conversa": 13.064
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Pacote 20 peças R$59,90][Remarketing][GV]",
+    "adset_id": "120250730492060467",
+    "spend": "0.8",
+    "impressions": "49",
+    "reach": "46",
+    "frequency": "1.065217",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "spend": "49.04",
+    "impressions": "1703",
+    "reach": "1311",
+    "frequency": "1.299008",
+    "clicks": "21",
+    "ctr": "1.233118",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 6.0,
+    "custo_por_conversa": 8.173333
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Amplo][GV][H+M 25-55][Vídeo]",
+    "adset_id": "120250819659190467",
+    "spend": "42.84",
+    "impressions": "1485",
+    "reach": "1194",
+    "frequency": "1.243719",
+    "clicks": "21",
+    "ctr": "1.414141",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 3.0,
+    "custo_por_conversa": 14.28
+   }
+  ],
+  "anuncios": [
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "ad_name": "[Novo] Reel Storytelling Narrado",
+    "ad_id": "120250519731190467",
+    "spend": "21.68",
+    "impressions": "1514",
+    "reach": "1273",
+    "frequency": "1.189317",
+    "clicks": "8",
+    "ctr": "0.528402",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 1.0,
+    "custo_por_conversa": 21.68
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "ad_name": "[Novo] Reel Serviços",
+    "ad_id": "120250519732030467",
+    "spend": "0.16",
+    "impressions": "10",
+    "reach": "8",
+    "frequency": "1.25",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "ad_name": "[Novo] Reel Plano Mensal Narrado [01-11-2026]",
+    "ad_id": "120250549347090467",
+    "spend": "0.04",
+    "impressions": "4",
+    "reach": "4",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "ad_name": "[Novo] Reel vs Autoatendimento Narrado [01-11-2026]",
+    "ad_id": "120250549348130467",
+    "spend": "0.08",
+    "impressions": "2",
+    "reach": "2",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Novo][Fem][25+][Advantage][R$25]",
+    "adset_id": "120250519075890467",
+    "ad_name": "[Novo] Edredom fim de ano [BestContent][03-11-2026]",
+    "ad_id": "120250595883520467",
+    "spend": "0.1",
+    "impressions": "13",
+    "reach": "13",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Vídeos Storytelling+Serviços][GV][30-10-2026]",
+    "adset_name": "[Ternos e Vestidos][Formaturas e festas][Fem 25+][R$20][03-11-2026]",
+    "adset_id": "120250595884140467",
+    "ad_name": "[Ternos e Vestidos] Formaturas e festas [BestContent][03-11-2026]",
+    "ad_id": "120250595885700467",
+    "spend": "47.89",
+    "impressions": "2470",
+    "reach": "1936",
+    "frequency": "1.275826",
+    "clicks": "22",
+    "ctr": "0.890688",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 5.0,
+    "custo_por_conversa": 9.578
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Feed Promo R$10 OFF [12-11-2026]",
+    "ad_id": "120250730494910467",
+    "spend": "0.73",
+    "impressions": "44",
+    "reach": "41",
+    "frequency": "1.073171",
+    "clicks": "1",
+    "ctr": "2.272727",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Feed Casal R$50 [12-11-2026]",
+    "ad_id": "120250730498960467",
+    "spend": "1.84",
+    "impressions": "97",
+    "reach": "90",
+    "frequency": "1.077778",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Story R$10 OFF [12-11-2026]",
+    "ad_id": "120250730500800467",
+    "spend": "0",
+    "impressions": "1",
+    "reach": "1",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Pacote 20 peças R$59,90][Remarketing][GV]",
+    "adset_id": "120250730492060467",
+    "ad_name": "[Pacotes] Story 20 peças R$59,90 [12-11-2026]",
+    "ad_id": "120250730504340467",
+    "spend": "0.29",
+    "impressions": "15",
+    "reach": "14",
+    "frequency": "1.071429",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Vídeo Storytelling R$10 OFF [12-11-2026]",
+    "ad_id": "120250733210540467",
+    "spend": "4.92",
+    "impressions": "443",
+    "reach": "385",
+    "frequency": "1.150649",
+    "clicks": "1",
+    "ctr": "0.225734",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Edredom R$10 OFF][Fem 25+][Advantage][GV]",
+    "adset_id": "120250730490060467",
+    "ad_name": "[Edredom] Vídeo Cortes Rápidos R$10 OFF [12-11-2026]",
+    "ad_id": "120250733211340467",
+    "spend": "57.83",
+    "impressions": "2440",
+    "reach": "2078",
+    "frequency": "1.174206",
+    "clicks": "27",
+    "ctr": "1.106557",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 5.0,
+    "custo_por_conversa": 11.566
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Pacote 20 peças R$59,90][Remarketing][GV]",
+    "adset_id": "120250730492060467",
+    "ad_name": "[Pacotes] Vídeo Storytelling 20 peças R$59,90 [12-11-2026]",
+    "ad_id": "120250733211930467",
+    "spend": "0.19",
+    "impressions": "17",
+    "reach": "17",
+    "frequency": "1",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Promo Novembro][Edredom + Pacotes][GV][12-11-2026]",
+    "adset_name": "[Pacote 20 peças R$59,90][Remarketing][GV]",
+    "adset_id": "120250730492060467",
+    "ad_name": "[Pacotes] Vídeo Cortes Rápidos 20 peças R$59,90 [12-11-2026]",
+    "ad_id": "120250733212330467",
+    "spend": "0.32",
+    "impressions": "17",
+    "reach": "16",
+    "frequency": "1.0625",
+    "clicks": "0",
+    "ctr": "0",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "ad_name": "[Planos] Imagem Limpo e Passado [12-11-2026]",
+    "ad_id": "120250736506480467",
+    "spend": "7.39",
+    "impressions": "406",
+    "reach": "338",
+    "frequency": "1.201183",
+    "clicks": "4",
+    "ctr": "0.985222",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "ad_name": "[Planos] Imagem Limpo e Dobrado [12-11-2026]",
+    "ad_id": "120250736508290467",
+    "spend": "2.09",
+    "impressions": "95",
+    "reach": "74",
+    "frequency": "1.283784",
+    "clicks": "1",
+    "ctr": "1.052632",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "ad_name": "[Planos] Imagem Passadoria [12-11-2026]",
+    "ad_id": "120250736509470467",
+    "spend": "4.08",
+    "impressions": "242",
+    "reach": "213",
+    "frequency": "1.13615",
+    "clicks": "2",
+    "ctr": "0.826446",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 0,
+    "custo_por_conversa": null
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Remarketing][GV]",
+    "adset_id": "120250736504240467",
+    "ad_name": "[Planos] Vídeo Storytelling Plano Mensal [12-11-2026]",
+    "ad_id": "120250736511120467",
+    "spend": "35.48",
+    "impressions": "960",
+    "reach": "831",
+    "frequency": "1.155235",
+    "clicks": "14",
+    "ctr": "1.458333",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 6.0,
+    "custo_por_conversa": 5.913333
+   },
+   {
+    "campaign_name": "[Clean][WhatsApp][Planos Mensais][GV][12-11-2026]",
+    "adset_name": "[Planos Mensais][Amplo][GV][H+M 25-55][Vídeo]",
+    "adset_id": "120250819659190467",
+    "ad_name": "[Planos] Vídeo Storytelling Plano Mensal [12-11-2026]",
+    "ad_id": "120250819659230467",
+    "spend": "42.84",
+    "impressions": "1485",
+    "reach": "1194",
+    "frequency": "1.243719",
+    "clicks": "21",
+    "ctr": "1.414141",
+    "date_start": "2026-11-17",
+    "date_stop": "2026-11-19",
+    "conversas": 3.0,
+    "custo_por_conversa": 14.28
+   }
+  ]
+ }
+}
