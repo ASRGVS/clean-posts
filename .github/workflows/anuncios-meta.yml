@@ -1,0 +1,46 @@
+name: Relatório de anúncios Meta (só leitura)
+
+on:
+  schedule:
+    - cron: "30 9 * * *"   # 06:30 em Brasília, antes da análise diária
+  workflow_dispatch:
+    inputs:
+      de:
+        description: "Data inicial AAAA-MM-DD (opcional)"
+        required: false
+      ate:
+        description: "Data final AAAA-MM-DD (opcional)"
+        required: false
+
+concurrency:
+  group: calendario
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  relatorio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ler anúncios
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: |
+          if [ -n "${{ github.event.inputs.de }}" ] && [ -n "${{ github.event.inputs.ate }}" ]; then
+            python automacao/anuncios_meta.py "${{ github.event.inputs.de }}" "${{ github.event.inputs.ate }}"
+          else
+            python automacao/anuncios_meta.py
+          fi
+      - name: Salvar relatório
+        run: |
+          git config user.name "publicador-clean"
+          git config user.email "publicador-clean@users.noreply.github.com"
+          git add relatorios/anuncios-meta.json
+          git diff --cached --quiet || git commit -m "Relatório de anúncios Meta $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
